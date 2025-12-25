@@ -45,16 +45,4 @@ Currently completing my **MS in Business Analytics** at the Isenberg School of M
 * **Tech:** Python (Pandas, Scikit-learn), Chi-Square Testing.
 * **Impact:** Processed **4,400+ student records**, using statistical independence tests to isolate key attrition drivers like tuition status and academic performance.
 
-### 🏟️ **[Club Sports Resource Tracker](https://github.com/Balram97215)**
-*Optimization logic applied to university operations.*
-* **Objective:** Streamline facility scheduling for 30+ sports teams to maximize utilization.
-* **Tech:** Excel, Power Query, Logic Modeling.
-* **Impact:** Achieved **100% facility utilization** and reduced booking conflicts by **25%** through a custom automated scheduling tool.
-
----
-
-## 📈 GitHub Stats
-
-![Balram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balram97215&show_icons=true&theme=radical)
-
 ---
