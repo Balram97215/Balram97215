@@ -8,8 +8,6 @@
 
 I am a **Data Analyst** with a specialized focus on **Data Governance** and **Quality Assurance**. With a background spanning Operations, Supply Chain, and Finance, I don't just analyze data; I build the *systems* that make data reliable. I have a proven track record of reducing manual QA efforts by **85%** and cutting onboarding times by **40%** through rigorous stewardship.
 
-Currently completing my **MS in Business Analytics** at the Isenberg School of Management (UMass Amherst).
-
 ---
 
 ## 🛠️ Technical Toolkit
@@ -25,7 +23,7 @@ Currently completing my **MS in Business Analytics** at the Isenberg School of M
 ## 🧠 How I Work: The Governance Mindset
 *My approach to projects is grounded in structure, visibility, and risk mitigation.*
 
-* **Agile Velocity & Planning:** I treat data projects like software products. I utilize **Sprint Planning** and **Velocity Tracking** to ensure deliverables—from data ingestion to dashboarding—hit strategic milestones on time.
+* **Agile Velocity & Planning:** I treat data projects like software products. I utilize **Sprint Planning** and **Velocity Tracking** to ensure deliverables from data ingestion to dashboarding hit strategic milestones on time.
 * **Proactive Risk Management:** I don't wait for pipelines to break. I maintain active **Risk & Issue Registers** to identify bottlenecks (e.g., API limits, privacy compliance) early, implementing mitigation strategies before they impact the business.
 * **Clear Accountability (RACI):** Success requires clarity. I define precise **RACI Matrices** to ensure cross-functional teams (Engineers, Analysts, Stakeholders) understand their ownership in the data lifecycle.
 
