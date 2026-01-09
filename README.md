@@ -5,7 +5,7 @@
     </td>
     <td width="70%">
       <h1>Hi, I'm Balram Bhanu Iyengar! 👋</h1>
-      <h5>🚀 Analytics Engineer | Data Governance | Supply Chain Ops</h5>
+      <h4>🚀 Analytics Engineer | Data Governance | Supply Chain Ops</h4>
       <p>
         <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
         <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
