@@ -37,19 +37,19 @@ I don't just analyze data; I build the *systems* that make data reliable. My bac
 *Detailed breakdowns of the technical infrastructure I built in professional environments.*
 
 ### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-**Role:** Data Engineering Intern (Professional Services)
+**Role:** SQL Developer (Intern)
 * **The Challenge:** Migrating legacy AML validation scripts from T-SQL to Cloud-Native PostgreSQL.
 * **The Fix:** Engineered a database-agnostic validation framework and refactored logic for cloud compatibility.
 * **The Result:** Reduced manual QA effort by **80%** and standardized compliance checks across regions.
 
 ### 🔹 [Indian Vellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
-**Role:** Senior Executive (Data Operations Lead)
+**Role:** Senior Business Development (Data Operations & Analytics)
 * **The Challenge:** Post-acquisition chaos with no infrastructure to optimize West Coast warehousing.
 * **The Fix:** Built a **Python ETL pipeline** to consolidate vendor logs and developed a **Geospatial Network Optimizer** (Center of Gravity logic).
 * **The Result:** Identified a warehouse zone projected to reduce shipping costs by **15-20%**.
 
 ### 🔹 [Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)
-**Role:** Product Operations Executive (Supply Chain Analytics)
+**Role:** Executive Product Development (Supply Chain Analytics)
 * **The Challenge:** "Pack-to-Load" times hit 3 days due to inefficient warehouse slotting.
 * **The Fix:** Spearheaded a **Lean Six Sigma** initiative using ABC Analysis to re-slot high-velocity SKUs.
 * **The Result:** Eliminated the 3-day backlog, returning to a 24-hour SLA, and reduced picker travel distance by 30%.
