@@ -19,14 +19,23 @@
 
 ## 👨‍💻 About Me
 
-I am an **Analytics Engineer** who started my career in **Operations & Business Development**.
+**I didn't inherit a roadmap for my career. As a First-Generation Undergraduate and Master’s graduate, I had to pave my own.**
 
-Early in my career at fast-paced startups, I realized that manual Excel processes were the bottleneck to growth. Instead of accepting the status quo, I taught myself **Python and SQL** to build the automation infrastructure those companies lacked.
+I didn’t start in a server room or a computer lab. I started on the operational frontlines of manufacturing and supply chain. At the time, I didn't have the vocabulary for what I was seeing, but I had a gut feeling: Information is gold, yet most businesses treat it like exhaust.
 
-I don't just analyze data; I build the *systems* that make data reliable. My background allows me to translate complex business requirements (Supply Chain, Finance, Compliance) into robust technical solutions.
+**The Pattern**, In those early years, I saw the same story repeat itself. I saw brilliant teams held back because their insights were trapped in fragmented spreadsheets. I saw "gut feelings" masking as strategy. I saw wasted time, wasted resources, and wasted potential, all because the decision makers couldn't see the full picture.
 
-* **Core Focus:** Data Governance, ETL Automation, Supply Chain Network Optimization.
-* **Signature Move:** Transforming "Toxic Data Swamps" into "Single Sources of Truth."
+I realized that the biggest bottleneck wasn't a lack of effort; it was a lack of orchestration.
+
+**The Turning Point**, I couldn't wait for a dedicated IT team to fix these problems, so I decided to fix them myself. I stumbled upon tools that, to the tech world, were standard, but to me, were revelations. I began stitching together disparate data sources. I automated the boring stuff. I turned chaos into clarity.
+
+What started as "survival" in a chaotic startup environment slowly turned into a fascination. I realized that I didn't just want to use the systems; I wanted to build them. I fell in love with the nuance of taking dispersed, messy information and architecting it into a Single Source of Truth.
+
+**The Realization**, This journey taught me that technology without context is just code. But technology with context is a superpower.
+
+**Today**, I am cementing that transition. I am actively pursuing Professional Data Engineering certifications to combine my operational grit with enterprise grade technical standards. My goal is to formalize my experience into a career as a Data Engineer building the infrastructure that allows SMEs to stop guessing and start leading.
+
+**My Mission** To orchestrate data not just to improve profits today, but to build a more efficient, sustainable foundation for the next generation.
 
 ---
 
