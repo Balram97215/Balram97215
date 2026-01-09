@@ -36,20 +36,20 @@ I don't just analyze data; I build the *systems* that make data reliable. My bac
 *Detailed breakdowns of the technical infrastructure I built in professional environments.*
 
 ### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-**Role:** Data Engineering Intern (Professional Services)
+**Role:** SQL DEVELOPER (PROFESSIONAL SERVICES)
 * **The Problem:** Manual data validation for AML compliance was causing massive onboarding delays.
 * **The Fix:** Engineered database-agnostic SQL queries to automate NULL scans and type checks.
 * **The Result:** Reduced manual QA effort by **80%** and presented efficiency gains to C-Suite leadership.
 * *Note: Linked repo demonstrates SQL Migration & Validation techniques used in this role.*
 
 ### 🔹 [Indian Vellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
-**Role:** Senior Executive (Data Operations Lead)
+**Role:** SENIOR BUSINESS DEVELOPMENT (DATA OPERATIONS & ANALYTICS)
 * **The Problem:** Post-acquisition chaos. No data infrastructure to decide where to place a West Coast warehouse.
 * **The Fix:** Built a **"Shadow IT" Python pipeline** to consolidate vendor logs and co-developed a **Geospatial Network Optimizer** (Center of Gravity logic).
 * **The Result:** Identified a warehouse zone projected to reduce shipping costs by **15-20%** and established a Single Source of Truth.
 
 ### 🔹 [Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)
-**Role:** Product Operations Executive (Supply Chain Analytics)
+**Role:** EXECUTIVE PRODUCT DEVELOPMENT (SUPPLY CHAIN ANALYTICS)
 * **The Problem:** "Pack-to-Load" times hit 3 days due to inefficient warehouse slotting.
 * **The Fix:** Spearheaded a **Lean Six Sigma** initiative using ABC Analysis to re-slot high-velocity SKUs and implemented **A/B Testing** for product bundles.
 * **The Result:** Eliminated the 3-day backlog, returning to a 24-hour SLA, and reduced picker travel distance by 30%.
@@ -78,6 +78,8 @@ I don't just analyze data; I build the *systems* that make data reliable. My bac
 * **Lean Six Sigma Yellow Belt** | *NIQC International* (Process Improvement)
 * **Google Project Management** | *Coursera* (In Progress)
 * **DeepMind.AI Data Engineering** | *Coursera* (In Progress)
+* **Data Analyst in PowerBI** | *datacamp*
+* **Data Analyst in Python** | *datacamp*
 
 ---
 
