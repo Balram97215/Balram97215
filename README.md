@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me: The "Shadow IT" Engineer
+## 👨‍💻 About Me
 
 I am an **Analytics Engineer** who started my career in **Operations & Business Development**.
 
