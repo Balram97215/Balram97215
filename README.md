@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
-    <td width="30%">
-      <img src="(https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true)" style="border-radius: 50%;" width="200px" alt="Balram Headshot">
+    <td width="30%" align="center">
+      <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" style="border-radius: 50%;" width="200px" alt="Balram Headshot">
     </td>
     <td width="70%">
       <h1>Hi, I'm Balram Bhanu Iyengar! 👋</h1>
