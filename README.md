@@ -1,6 +1,3 @@
-# Hi there, I'm Balram Bhanu Iyengar! 👋
-### 🚀 Analytics Engineer | Data Governance Specialist | Supply Chain Operations
-
 <table border="0">
   <tr>
     <td width="30%">
@@ -17,12 +14,6 @@
     </td>
   </tr>
 </table>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balram-iyengar-97shree)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:iyengarbalram97@gmail.com)
-[![Location](https://img.shields.io/badge/Location-RTP,_North_Carolina-green?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps)
-
-> **"I bridge the gap between Boardroom Strategy and Engine Room Code."**
 
 ---
 
