@@ -1,12 +1,23 @@
 # Hi there, I'm Balram Bhanu Iyengar! 👋
-### 🚀 Data Analyst | Data Governance Specialist | Analytics Engineer
+### 🚀 Data Analyst | Analytics Engineer | Supply Chain Operations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balram-iyengar-97shree)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:iyengarbalram97@gmail.com)
 
-> *Transforming fragmented data into strategic assets through Governance, Engineering, and Analytics.*
+> *"I bridge the gap between Boardroom Strategy and Engine Room Code."*
 
-I am a **Data Analyst** with a specialized focus on **Data Governance** and **Quality Assurance**. With a background spanning Operations, Supply Chain, and Finance, I don't just analyze data; I build the *systems* that make data reliable. I have a proven track record of reducing manual QA efforts by **85%** and cutting onboarding times by **40%** through rigorous stewardship.
+---
+
+## 👨‍💻 About Me: The "Shadow IT" Engineer
+
+I am an **Analytics Engineer** who started my career in **Operations & Business Development**. 
+
+Early in my career at fast-paced startups, I realized that manual Excel processes were the bottleneck to growth. Instead of accepting the status quo, I taught myself **Python and SQL** to build the automation infrastructure those companies lacked. 
+
+I don't just analyze data; I build the *systems* that make data reliable. My background allows me to translate complex business requirements (Supply Chain, Finance, Compliance) into robust technical solutions.
+
+* **Core Focus:** Data Governance, ETL Automation, Supply Chain Network Optimization.
+* **Signature Move:** Transforming "Toxic Data Swamps" into "Single Sources of Truth."
 
 ---
 
@@ -20,27 +31,56 @@ I am a **Data Analyst** with a specialized focus on **Data Governance** and **Qu
 
 ---
 
-## 🧠 How I Work: The Governance Mindset
-*My approach to projects is grounded in structure, visibility, and risk mitigation.*
+## 💼 Professional Experience (Case Studies)
 
-* **Agile Velocity & Planning:** I treat data projects like software products. I utilize **Sprint Planning** and **Velocity Tracking** to ensure deliverables from data ingestion to dashboarding hit strategic milestones on time.
-* **Proactive Risk Management:** I don't wait for pipelines to break. I maintain active **Risk & Issue Registers** to identify bottlenecks (e.g., API limits, privacy compliance) early, implementing mitigation strategies before they impact the business.
-* **Clear Accountability (RACI):** Success requires clarity. I define precise **RACI Matrices** to ensure cross-functional teams (Engineers, Analysts, Stakeholders) understand their ownership in the data lifecycle.
+*Detailed breakdowns of the technical infrastructure I built in professional environments.*
+
+### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
+**Role:** Data Engineering Intern (Professional Services)
+* **The Problem:** Manual data validation for AML compliance was causing massive onboarding delays.
+* **The Fix:** Engineered database-agnostic SQL queries to automate NULL scans and type checks.
+* **The Result:** Reduced manual QA effort by **80%** and presented efficiency gains to C-Suite leadership.
+* *Note: Linked repo demonstrates SQL Migration & Validation techniques used in this role.*
+
+### 🔹 [Indian Vellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
+**Role:** Senior Executive (Data Operations Lead)
+* **The Problem:** Post-acquisition chaos. No data infrastructure to decide where to place a West Coast warehouse.
+* **The Fix:** Built a **"Shadow IT" Python pipeline** to consolidate vendor logs and co-developed a **Geospatial Network Optimizer** (Center of Gravity logic).
+* **The Result:** Identified a warehouse zone projected to reduce shipping costs by **15-20%** and established a Single Source of Truth.
+
+### 🔹 [Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)
+**Role:** Product Operations Executive (Supply Chain Analytics)
+* **The Problem:** "Pack-to-Load" times hit 3 days due to inefficient warehouse slotting.
+* **The Fix:** Spearheaded a **Lean Six Sigma** initiative using ABC Analysis to re-slot high-velocity SKUs and implemented **A/B Testing** for product bundles.
+* **The Result:** Eliminated the 3-day backlog, returning to a 24-hour SLA, and reduced picker travel distance by 30%.
 
 ---
 
-## 📂 Featured Projects
+## 🧪 Technical Projects & Research
 
-### 📺 **[YouTube Video Popularity Analytics](https://github.com/Balram97215/YouTube-Analytics)**
-*Predicting viral potential using Machine Learning.*
-* **Objective:** Classify video popularity based on engagement metrics to optimize content strategy.
-* **Tech:** Python, Logistic Regression, Decision Trees.
-* **Impact:** Achieved **68%+ classification accuracy** across 10,000+ videos. Engineered features from publish dates and tag counts to uncover "digital timing synergy" trends.
-
-### 🎓 **[Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)**
-*Retention strategies driven by predictive modeling.*
-* **Objective:** Identify at-risk students early to intervene and improve retention rates.
-* **Tech:** Python (Pandas, Scikit-learn), Chi-Square Testing.
-* **Impact:** Processed **4,400+ student records**, using statistical independence tests to isolate key attrition drivers like tuition status and academic performance.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[YouTube Analytics](https://github.com/Balram97215/YouTube-Analytics)** | **Viral Prediction Model:** Classifying video popularity based on engagement metrics with 68%+ accuracy. | `Python`, `Logistic Regression` |
+| **[Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)** | **Retention Strategy:** Identifying at-risk students using statistical independence tests to improve retention. | `Pandas`, `Chi-Square` |
+| **[Employee Attrition](https://github.com/Balram97215/Employee-Attrition)** | **HR Analytics:** Analyzing attrition risk factors to drive workforce retention strategies. | `Scikit-learn`, `EDA` |
 
 ---
+
+## 📚 Continuous Learning & Notes
+*I believe in documenting my learning journey. These repos serve as my personal knowledge base.*
+
+* **[SQL Notes & Case Studies](https://github.com/Balram97215/Notes):** Deep dives into Window Functions, CTEs, and Pivot tables.
+* **[Pandas Practice](https://github.com/Balram97215/pandas_practice):** Collection of Jupyter Notebooks focusing on data manipulation and cleaning techniques.
+
+---
+
+## 📜 Certifications
+* **Lean Six Sigma Yellow Belt** | *NIQC International* (Process Improvement)
+* **Google Project Management** | *Coursera* (In Progress)
+* **DeepMind.AI Data Engineering** | *Coursera* (In Progress)
+
+---
+
+<div align="center">
+  <i>"Data without context is just noise. Data with context is strategy."</i>
+</div>
