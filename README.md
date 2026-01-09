@@ -1,10 +1,28 @@
 # Hi there, I'm Balram Bhanu Iyengar! 👋
 ### 🚀 Analytics Engineer | Data Governance Specialist | Supply Chain Operations
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balram-iyengar-97shree)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:iyengarbalram97@gmail.com)
+<table border="0">
+  <tr>
+    <td width="30%">
+      <img src="LINK_TO_YOUR_PHOTO.jpg" style="border-radius: 50%;" width="200px" alt="Balram Headshot">
+    </td>
+    <td width="70%">
+      <h1>Hi, I'm Balram Bhanu Iyengar! 👋</h1>
+      <h3>🚀 Analytics Engineer | Data Governance | Supply Chain Ops</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+        <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
+      </p>
+      <blockquote><strong>"I bridge the gap between Boardroom Strategy and Engine Room Code."</strong></blockquote>
+    </td>
+  </tr>
+</table>
 
-> *"I bridge the gap between Boardroom Strategy and Engine Room Code."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balram-iyengar-97shree)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:iyengarbalram97@gmail.com)
+[![Location](https://img.shields.io/badge/Location-RTP,_North_Carolina-green?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps)
+
+> **"I bridge the gap between Boardroom Strategy and Engine Room Code."**
 
 ---
 
