@@ -4,8 +4,8 @@
       <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" style="border-radius: 50%;" width="200px" alt="Balram Headshot">
     </td>
     <td width="70%">
-      <h1>Hi, I'm Balram Bhanu Iyengar! 👋</h1>
-      <h4>🚀 Analytics Engineer | Data Governance | Supply Chain Ops</h4>
+      <h1>Welcome, I'm Balram Bhanu Iyengar! 👋</h1>
+      <h4>🚀 Data Analytics/Engineer | Data Governance | Supply Chain Ops</h4>
       <p>
         <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
         <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
@@ -17,9 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me: The "Unconventional" Engineer
-> *Here you will learn a little about my journey*
-              > **What makes me wake up everyday**
+## 👨‍💻 My Journey: The "Unconventional" Engineer
 
 As a **first generation** undergrad and masters graduate, the traditional playbooks wasn't an option for me. I learned early on that if you want a path, you often have to pave it yourself.
 
@@ -48,18 +46,19 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 
 ## 🛠️ Technical Toolkit
 
-| **Data Engineering & DBs** | **Languages & Analytics** | **Governance & Business** |
+| **Data Engineering & Cloud** | **Languages & Analytics** | **Governance & Business** |
 | :--- | :--- | :--- |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) **SQL** (T-SQL, PostgreSQL) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** (Pandas, NumPy) | 🛡️ **Master Data Mgmt (MDM)** |
-| ☁️ **Azure Data Factory** | 🤖 **Machine Learning** (Scikit-learn) | 📋 **SOP Development** |
-| ❄️ **Snowflake** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** (DAX) | 🔍 **Root Cause Analysis** |
-| 🏗️ **Dimensional Modeling** | 📊 **Matplotlib / Seaborn** | 📦 **Inventory Optimization** |
-
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **Amazon Web Services** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** (Pandas, NumPy) | 🛡️ **Master Data Mgmt (MDM)** |
+| 🌪️ **Apache Airflow** (Orchestration) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) **SQL** (PostgreSQL, T-SQL) | 📝 **Requirements Analysis** |
+| ⚡ **Apache Spark** (Big Data) | 🤖 **Feature Engineering** | 📋 **SOP Development** |
+| ❄️ **Snowflake** & **Vector DBs** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** (DAX) | 🔍 **Root Cause Analysis** |
+| 🐘 **Apache Hadoop** & **Data Lakes** | 📊 **Matplotlib / Seaborn** | 🏗️ **Data Modeling** |
 ---
 
 ## 💼 Professional Experience (Case Studies)
 
 *Detailed breakdowns of the technical infrastructure I built in professional environments.*
+> *Click the links to dive deeper into my case studies*
 
 ### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
 **Role:** SQL Developer (Intern)
