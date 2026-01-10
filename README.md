@@ -19,15 +19,16 @@
 
 ## 👨‍💻 About Me: The "Unconventional" Engineer
 
-If you told me five years ago that I’d be losing sleep over SQL query optimization, I probably would have asked:
+If you told me seven years ago that I’d be losing sleep over SQL query optimization, I probably would have asked:
 
-> *"When did you start writing a sequel for a movie plot?"* >
-> **LOL! SERIOUSLY, right?**
+> *"When did you start writing a sequel for a movie plot?"*
 
-I was not a typical techie—not even close. As a **First-Generation undergraduate and master’s graduate**, I didn’t have a playbook to succeed in a professional career. I didn't start in a computer lab; I started on the operational frontlines of **Manufacturing and Supply Chain**.
+As a **first generation** undergrad and masters graduate, the traditional playbooks wasn't an option for me. I learned early on that if you want a path, you often have to pave it yourself.
+
+My journey began far away from Silicon Valley, deep in the trenches of **Operations**, where "data" wasn't a clean SQL table it was a stack of mess and urgent deadlines.
 
 **The "Why"**
-In those early days, I spent a lot of time watching smart people make tough decisions simply because they couldn't see the numbers. I saw warehouses overstocked with the wrong inventory and trucks shipping empty air. It drove me crazy. I realized that **waste** wasn't happening because people were lazy; it was happening because the **data was a mess**.
+In those early days, I watched smart people make tough decisions without the right insights. I realized that **waste** wasn't happening because people were lazy; it was happening because their approach to data was misaligned with the industry's rapid growth.
 
 **The Pivot**
 The chaotic startup environment was a blessing in disguise. With no boundaries to stop me, I learned to take initiative. I taught myself the skills needed to solve problems on the fly, collaborating with SMEs to execute solutions. This journey taught me a critical lesson:
@@ -35,12 +36,12 @@ The chaotic startup environment was a blessing in disguise. With no boundaries t
 > **"Technology without context is just an algorithm. But technology *with* context is a superpower."**
 
 **The Transition**
-Eventually, I pursued my **M.S. in Business Analytics** at the Isenberg School of Management (UMass Amherst). At that point, my path was still blurry—I had the drive, but I lacked the granular clarity of where I fit. It was my internship at **NICE Actimize** in 2024 that finally clicked: I loved writing queries. I loved understanding the infrastructure. I loved using data to answer business questions.
+Eventually, I pursued my **M.S. in Business Analytics** at the Isenberg School of Management (UMass Amherst). At that point, my path was still blurry. I had the drive, but I lacked the granular clarity of where I fit. It was my internship at **NICE Actimize** in 2024 that finally clicked: I loved writing queries. I loved understanding the infrastructure. I loved using data to answer business questions.
 
 **Where I Am Now**
-Today, I am cementing that transition. I am actively pursuing **Professional Data Engineering certifications** to combine my operational grit with enterprise-grade technical standards.
+Today, I am cementing that transition. I am actively pursuing **Professional Data Engineering certifications** to combine my operational grit with enterprise grade technical standards.
 
-My goal is to formalize my experience into a career as a **Data Engineer**—building the infrastructure that allows SMEs to stop guessing and start leading.
+My goal is to formalize my experience into a career as a **Data Engineer** building the infrastructure that allows SMEs to stop guessing and start leading.
 
 **My Mission**
 To orchestrate data not just to improve profits today, but to build a more **efficient, sustainable foundation for the next generation.**
