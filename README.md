@@ -18,10 +18,8 @@
 ---
 
 ## 👨‍💻 About Me: The "Unconventional" Engineer
-
-If you told me seven years ago that I’d be losing sleep over SQL query optimization, I probably would have asked:
-
-> *"When did you start writing a sequel for a movie plot?"*
+> *Here you will learn a little about my journey*
+              > **What makes me wake up everyday**
 
 As a **first generation** undergrad and masters graduate, the traditional playbooks wasn't an option for me. I learned early on that if you want a path, you often have to pave it yourself.
 
