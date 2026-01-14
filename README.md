@@ -19,7 +19,7 @@
 
 ### 🚀 Career Performance Dashboard (KPIs)
 
-<table border="0" width="100%">
+<table border="0" width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Operational Impact</h3>
@@ -115,6 +115,17 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 
 ---
 
+## 🧪 Technical Projects & Research
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)** | **Digital Twin Simulation:** Optimizing warehouse locations using Center of Gravity physics to reduce freight costs by ~18%. | `Python`, `Power BI`, `CoG Physics` |
+| **[YouTube Analytics](https://github.com/Balram97215/YouTube-Analytics)** | **Viral Prediction Model:** Classifying video popularity based on engagement metrics with 68%+ accuracy. | `Python`, `Logistic Regression` |
+| **[Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)** | **Retention Strategy:** Identifying at-risk students using statistical independence tests. | `Pandas`, `Chi-Square` |
+| **[Employee Attrition](https://github.com/Balram97215/Employee-Attrition)** | **HR Analytics:** Analyzing attrition risk factors to drive workforce retention strategies. | `Scikit-learn`, `EDA` |
+
+---
+
 ## 💼 Professional Experience
 
 ### 🔹 Community Dreams Foundation | Unified Data Warehouse
@@ -159,16 +170,6 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 * **The Fix:** Executed rigorous quality control checks and adhered to ISO manufacturing standards.
 * **The Result:** Completed intensive 12 month industrial training program with excellence in production operations.
 
----
-
-## 🧪 Technical Projects & Research
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)** | **Digital Twin Simulation:** Optimizing warehouse locations using Center of Gravity physics to reduce freight costs by ~18%. | `Python`, `Power BI`, `CoG Physics` |
-| **[YouTube Analytics](https://github.com/Balram97215/YouTube-Analytics)** | **Viral Prediction Model:** Classifying video popularity based on engagement metrics with 68%+ accuracy. | `Python`, `Logistic Regression` |
-| **[Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)** | **Retention Strategy:** Identifying at-risk students using statistical independence tests. | `Pandas`, `Chi-Square` |
-| **[Employee Attrition](https://github.com/Balram97215/Employee-Attrition)** | **HR Analytics:** Analyzing attrition risk factors to drive workforce retention strategies. | `Scikit-learn`, `EDA` |
 
 ---
 
