@@ -17,6 +17,51 @@
 
 ---
 
+### 🚀 Career Performance Dashboard (KPIs)
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Operational Impact</h3>
+      <div align="center">
+        <a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
+          <img src="https://img.shields.io/badge/Validation_Time_Cut-80%25-success?style=for-the-badge&logo=speedtest&logoColor=white" alt="80% Efficiency Gain"/>
+        </a>
+        <br/>
+        <sub><i>Reduced QA cycles via PostgreSQL Automation (NICE Actimize)</i></sub>
+        <br/><br/>
+        <a href="https://github.com/Balram97215/IVS-OLHS-Integration">
+           <img src="https://img.shields.io/badge/Logistics_Cost_Savings-~18%25-success?style=for-the-badge&logo=cashapp&logoColor=white" alt="18% Cost Reduction"/>
+        </a>
+        <br/>
+        <sub><i>Projected savings via Geospatial Network Optimization (IVS)</i></sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Reporting_Latency_Cut-90%25-success?style=for-the-badge&logo=google-analytics&logoColor=white" alt="90% Faster Reporting"/>
+        <br/>
+        <sub><i>Through Python ETL consolidation of fragmented logs</i></sub>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ Technical Proficiency</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/SQL_(Postgres%2F_T--SQL)-Advanced-blue?style=flat&logo=microsoft-sql-server"/>
+        <br/>
+        <img src="https://progress-bar.dev/90/?scale=100&title=proficiency&width=200&color=007ec6&suffix=%"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python_(Pandas%2F_ETL)-Advanced-blue?style=flat&logo=python"/>
+        <br/>
+        <img src="https://progress-bar.dev/85/?scale=100&title=proficiency&width=200&color=007ec6&suffix=%"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Cloud_(AWS%2F_Snowflake)-Intermediate-orange?style=flat&logo=amazon-aws"/>
+        <br/>
+        <img src="https://progress-bar.dev/60/?scale=100&title=proficiency&width=200&color=ffa500&suffix=%"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 👨‍💻 My Journey: The "Unconventional" Engineer
 
 As a **first generation** undergrad and masters graduate, the traditional playbooks wasn't an option for me. I learned early on that if you want a path, you often have to pave it yourself.
@@ -53,30 +98,52 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 | ⚡ **Apache Spark** (Big Data) | 🤖 **Feature Engineering** | 📋 **SOP Development** |
 | ❄️ **Snowflake** & **Vector DBs** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** (DAX) | 🔍 **Root Cause Analysis** |
 | 🐘 **Apache Hadoop** & **Data Lakes** | 📊 **Matplotlib / Seaborn** | 🏗️ **Data Modeling** |
+
 ---
 
-## 💼 Professional Experience (Case Studies)
+## 💼 Professional Experience
 
-*Detailed breakdowns of the technical infrastructure I built in professional environments.*
-> *Click the links to dive deeper into my case studies*
+### 🔹 Community Dreams Foundation | Unified Data Warehouse
+**Role:** Data Analytics Volunteer (Remote) | *Aug 2025 - Present*
+* **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis.
+* **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data.
+* **The Result:** Establishing a centralized data platform to support multi-sector predictive modeling.
 
 ### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-**Role:** SQL Developer (Intern)
-* **The Challenge:** Migrating legacy AML validation scripts from T-SQL to Cloud-Native PostgreSQL.
-* **The Fix:** Engineered a database-agnostic validation framework and refactored logic for cloud compatibility.
-* **The Result:** Reduced manual QA effort by **80%** and standardized compliance checks across regions.
+**Role:** SQL Developer (Intern) | *May 2024 - Jul 2024*
+* **The Challenge:** Manual syntax checks and data mapping for Anti-Money Laundering (AML) solutions were causing deployment delays.
+* **The Fix:** Engineered **PostgreSQL native validation scripts** and a comprehensive **Training Artifacts Catalog** to automate checks.
+* **The Result:** Reduced validation cycle time by **80%** and resolved critical syntax incompatibilities during cloud migration.
 
-### 🔹 [Indian Vellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
-**Role:** Senior Business Development (Data Operations & Analytics)
-* **The Challenge:** Post-acquisition chaos with no infrastructure to optimize West Coast warehousing.
-* **The Fix:** Built a **Python ETL pipeline** to consolidate vendor logs and developed a **Geospatial Network Optimizer** (Center of Gravity logic).
-* **The Result:** Identified a warehouse zone projected to reduce shipping costs by **15-20%**.
+### 🔹 Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration
+**Role:** Technical Project Manager (Intern) | *Sep 2022 - Aug 2023*
+* **The Challenge:** Integrating the 'Vyli' AI diagnostic platform with legacy clinical systems without compromising PHI.
+* **The Fix:** Translated clinical logic into **SQL-based technical specifications** and implemented a **data governance framework**.
+* **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks.
+
+### 🔹 [Indian Wellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
+**Role:** Data Operations Analyst | *Nov 2021 - Aug 2022*
+* **The Challenge:** Determining optimal warehouse locations for the 'Oriental Lotus' expansion without validated cost logic.
+* **The Fix:** Collaborated on a **Python-based Geospatial Network Optimizer** (Center of Gravity) and built a "Single Source of Truth" dashboard.
+* **The Result:** Validated Cost of Goods Sold (COGS) logic and provided the first real time view of product sales.
 
 ### 🔹 [Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)
-**Role:** Executive Product Development (Supply Chain Analytics)
-* **The Challenge:** "Pack-to-Load" times hit 3 days due to inefficient warehouse slotting.
-* **The Fix:** Spearheaded a **Lean Six Sigma** initiative using ABC Analysis to re-slot high-velocity SKUs.
-* **The Result:** Eliminated the 3-day backlog, returning to a 24-hour SLA, and reduced picker travel distance by 30%.
+**Role:** Supply Chain Data Analyst | *Oct 2020 - Oct 2021*
+* **The Challenge:** Critical 3-day delivery delays due to inefficient packing bottlenecks.
+* **The Fix:** Spearheaded a **Lean Six Sigma** initiative utilizing **EDA** and **ABC Slotting strategies** for high velocity SKUs.
+* **The Result:** Replaced intuition based decision making with **statistically validated A/B testing frameworks**, restoring SLAs.
+
+### 🔹 Fidelis Corporate Solutions (DXC Technology) | System Reliability
+**Role:** Technical Support Engineer | *Mar 2020 - Jun 2020*
+* **The Focus:** Enterprise technical support and incident diagnosis for DXC Technology clients.
+* **The Fix:** Maintained strict Service Level Agreements (SLAs) through rapid issue triage and root cause identification.
+* **The Result:** Ensured operational continuity during high volume incident periods.
+
+### 🔹 TI Tsubamex Pvt. Ltd. | Precision Engineering
+**Role:** Industrial Engineering Trainee | *May 2016 - May 2017*
+* **The Focus:** High precision manufacturing and quality assurance for automotive tool & die components.
+* **The Fix:** Executed rigorous quality control checks and adhered to ISO manufacturing standards.
+* **The Result:** Completed intensive 12 month industrial training program with excellence in production operations.
 
 ---
 
