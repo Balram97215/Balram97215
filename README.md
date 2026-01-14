@@ -21,40 +21,54 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">⚡ Operational Impact</h3>
       <div align="center">
         <a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
-          <img src="https://img.shields.io/badge/Validation_Time_Cut-80%25-success?style=for-the-badge&logo=speedtest&logoColor=white" alt="80% Efficiency Gain"/>
+          <img src="https://img.shields.io/badge/Validation_Time_Cut-80%25-success?style=for-the-badge&logo=speedtest&logoColor=white"/>
         </a>
         <br/>
-        <sub><i>Reduced QA cycles via PostgreSQL Automation (NICE Actimize)</i></sub>
+        <sub><i>Reduced QA cycles via PostgreSQL Automation</i></sub>
         <br/><br/>
         <a href="https://github.com/Balram97215/IVS-OLHS-Integration">
-           <img src="https://img.shields.io/badge/Logistics_Cost_Savings-~18%25-success?style=for-the-badge&logo=cashapp&logoColor=white" alt="18% Cost Reduction"/>
+           <img src="https://img.shields.io/badge/Logistics_Cost_Savings-~18%25-success?style=for-the-badge&logo=cashapp&logoColor=white"/>
         </a>
         <br/>
-        <sub><i>Projected savings via Geospatial Network Optimization (IVS)</i></sub>
+        <sub><i>Projected savings via Geospatial Network Optimization</i></sub>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Reporting_Latency_Cut-90%25-success?style=for-the-badge&logo=google-analytics&logoColor=white" alt="90% Faster Reporting"/>
+        <img src="https://img.shields.io/badge/Reporting_Latency_Cut-90%25-success?style=for-the-badge&logo=google-analytics&logoColor=white"/>
         <br/>
         <sub><i>Through Python ETL consolidation of fragmented logs</i></sub>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🛠️ Technical Proficiency</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/SQL_(Postgres%2F_T--SQL)-Advanced-blue?style=flat&logo=microsoft-sql-server"/>
+        <img src="https://img.shields.io/badge/SQL_(Postgres%2F_T--SQL)-Advanced-007ec6?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
         <br/>
-        <img src="https://progress-bar.dev/90/?scale=100&title=proficiency&width=200&color=007ec6&suffix=%"/>
+        <code>██████████ 90%</code>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Python_(Pandas%2F_ETL)-Advanced-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/Python_(Pandas%2F_ETL)-Advanced-007ec6?style=flat-square&logo=python&logoColor=white"/>
         <br/>
-        <img src="https://progress-bar.dev/85/?scale=100&title=proficiency&width=200&color=007ec6&suffix=%"/>
+        <code>█████████░ 85%</code>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Cloud_(AWS%2F_Snowflake)-Intermediate-orange?style=flat&logo=amazon-aws"/>
+        <img src="https://img.shields.io/badge/Cloud_(AWS%2F_Snowflake)-Intermediate-orange?style=flat-square&logo=amazon-aws&logoColor=white"/>
         <br/>
-        <img src="https://progress-bar.dev/60/?scale=100&title=proficiency&width=200&color=ffa500&suffix=%"/>
+        <code>██████░░░░ 60%</code>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🧠 Project Management & Strategy</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Methodology-Agile_%2F_Scrum-7209b7?style=flat-square&logo=jira&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Strategy-Root_Cause_Analysis-7209b7?style=flat-square&logo=google-search-console&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Leadership-Cross--Functional_Comms-7209b7?style=flat-square&logo=microsoft-teams&logoColor=white"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Governance-Master_Data_Mgmt_(MDM)-purple?style=flat-square&logo=shield&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Focus-Stakeholder_Mgmt-purple?style=flat-square&logo=google-meet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Optimization-Lean_Six_Sigma-purple?style=flat-square&logo=files&logoColor=white"/>
       </div>
     </td>
   </tr>
