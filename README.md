@@ -147,7 +147,7 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 * **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks.
 
 ### 🔹 [Indian Wellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
-**Role:** Data Operations Analyst | *Nov 2021 - Aug 2022*
+**Role:** Data Operations Analyst | *Nov 2021 - Sep 2022*
 * **The Challenge:** Determining optimal warehouse locations for the 'Oriental Lotus' expansion without validated cost logic.
 * **The Fix:** Collaborated on a **Python-based Geospatial Network Optimizer** (Center of Gravity) and built a "Single Source of Truth" dashboard.
 * **The Result:** Validated Cost of Goods Sold (COGS) logic and provided the first real time view of product sales.
