@@ -129,19 +129,19 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 ## 💼 Professional Experience
 
 ### 🔹 Community Dreams Foundation | Unified Data Warehouse
-**Role:** Data Analytics Volunteer (Remote) | *Aug 2025 - Present*
+**Role:** Data Analytics | *Aug 2025 - Present*
 * **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis.
 * **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data.
 * **The Result:** Establishing a centralized data platform to support multi-sector predictive modeling.
 
 ### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-**Role:** SQL Developer (Intern) | *May 2024 - Jul 2024*
+**Role:** Business Analytics (Intern) | *May 2024 - Jul 2024*
 * **The Challenge:** Manual syntax checks and data mapping for Anti-Money Laundering (AML) solutions were causing deployment delays.
 * **The Fix:** Engineered **PostgreSQL native validation scripts** and a comprehensive **Training Artifacts Catalog** to automate checks.
 * **The Result:** Reduced validation cycle time by **80%** and resolved critical syntax incompatibilities during cloud migration.
 
 ### 🔹 Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration
-**Role:** Technical Project Manager (Intern) | *Sep 2022 - Aug 2023*
+**Role:** Technical Data Consultant (Contract) | *Sep 2022 - Aug 2023*
 * **The Challenge:** Integrating the 'Vyli' AI diagnostic platform with legacy clinical systems without compromising PHI.
 * **The Fix:** Translated clinical logic into **SQL-based technical specifications** and implemented a **data governance framework**.
 * **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks.
