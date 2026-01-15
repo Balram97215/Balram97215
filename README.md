@@ -128,47 +128,47 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 
 ## 💼 Professional Experience
 
-### 🔹 Community Dreams Foundation | Unified Data Warehouse
-**Role:** Data Analytics | *Aug 2025 - Present*
-* **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis.
-* **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data.
-* **The Result:** Establishing a centralized data platform to support multi-sector predictive modeling.
+### 🔹 **Data Analytics**
+**Community Dreams Foundation | Real Estate Analytics** | *Aug 2025 - Present*
+* **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis
+* **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data
+* **The Result:** Establishing a centralized data platform to support multi-sector predictive modeling
 
-### 🔹 [NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-**Role:** Business Analytics (Intern) | *May 2024 - Jul 2024*
-* **The Challenge:** Manual syntax checks and data mapping for Anti-Money Laundering (AML) solutions were causing deployment delays.
-* **The Fix:** Engineered **PostgreSQL native validation scripts** and a comprehensive **Training Artifacts Catalog** to automate checks.
-* **The Result:** Reduced validation cycle time by **80%** and resolved critical syntax incompatibilities during cloud migration.
+### 🔹 **Business Analytics (Intern)**
+**[NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)** | *May 2024 - Jul 2024*
+* **The Challenge:** Low income buyers were getting priced out by sudden, unfair price spikes they couldn't see coming
+* **The Fix:** Build a Machine Learning tool that scans real-time housing data to flag suspicious price changes, giving community leaders an early warning system to protect buyers
+* **The Result:** Reduced validation cycle time by **80%** and resolved critical syntax incompatibilities during cloud migration
 
-### 🔹 Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration
-**Role:** Technical Data Consultant (Contract) | *Sep 2022 - Aug 2023*
-* **The Challenge:** Integrating the 'Vyli' AI diagnostic platform with legacy clinical systems without compromising PHI.
-* **The Fix:** Translated clinical logic into **SQL-based technical specifications** and implemented a **data governance framework**.
-* **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks.
+### 🔹 **Technical Data Consultant (Contract)**
+**Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration** | *Sep 2022 - Aug 2023*
+* **The Challenge:** Integrating the 'Vyli' AI diagnostic platform with legacy clinical systems without compromising PHI
+* **The Fix:** Translated clinical logic into **SQL-based technical specifications** and implemented a **data governance framework**
+* **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks
 
-### 🔹 [Indian Wellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)
-**Role:** Data Operations Analyst | *Nov 2021 - Sep 2022*
-* **The Challenge:** Determining optimal warehouse locations for the 'Oriental Lotus' expansion without validated cost logic.
-* **The Fix:** Collaborated on a **Python-based Geospatial Network Optimizer** (Center of Gravity) and built a "Single Source of Truth" dashboard.
-* **The Result:** Validated Cost of Goods Sold (COGS) logic and provided the first real time view of product sales.
+### 🔹 **Data Operations Analyst**
+**[Indian Vellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)** | *Nov 2021 - Sep 2022*
+* **The Challenge:** Determining optimal warehouse locations for the 'Oriental Lotus' expansion without validated cost logic
+* **The Fix:** Collaborated on a **Python-based Geospatial Network Optimizer** (Center of Gravity) and built a "Single Source of Truth" dashboard
+* **The Result:** Validated Cost of Goods Sold (COGS) logic and provided the first real time view of product sales
+  
+### 🔹 **Supply Chain Data Analyst**
+**[Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)** | *Oct 2020 - Oct 2021*
+* **The Challenge:** Critical 3-day delivery delays due to inefficient packing bottlenecks
+* **The Fix:** Spearheaded a **Lean Six Sigma** initiative utilizing **EDA** and **ABC Slotting strategies** for high velocity SKUs
+* **The Result:** Replaced intuition based decision making with **statistically validated A/B testing frameworks**, restoring SLAs
 
-### 🔹 [Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)
-**Role:** Supply Chain Data Analyst | *Oct 2020 - Oct 2021*
-* **The Challenge:** Critical 3-day delivery delays due to inefficient packing bottlenecks.
-* **The Fix:** Spearheaded a **Lean Six Sigma** initiative utilizing **EDA** and **ABC Slotting strategies** for high velocity SKUs.
-* **The Result:** Replaced intuition based decision making with **statistically validated A/B testing frameworks**, restoring SLAs.
+### 🔹 **Technical Support Engineer**
+**Fidelis Corporate Solutions (DXC Technology) | System Reliability** | *Mar 2020 - Jun 2020*
+* **The Focus:** Enterprise technical support and incident diagnosis for DXC Technology clients
+* **The Fix:** Maintained strict Service Level Agreements (SLAs) through rapid issue triage and root cause identification
+* **The Result:** Ensured operational continuity during high volume incident periods
 
-### 🔹 Fidelis Corporate Solutions (DXC Technology) | System Reliability
-**Role:** Technical Support Engineer | *Mar 2020 - Jun 2020*
-* **The Focus:** Enterprise technical support and incident diagnosis for DXC Technology clients.
-* **The Fix:** Maintained strict Service Level Agreements (SLAs) through rapid issue triage and root cause identification.
-* **The Result:** Ensured operational continuity during high volume incident periods.
-
-### 🔹 TI Tsubamex Pvt. Ltd. | Precision Engineering
-**Role:** Industrial Engineering Trainee | *May 2016 - May 2017*
-* **The Focus:** High precision manufacturing and quality assurance for automotive tool & die components.
-* **The Fix:** Executed rigorous quality control checks and adhered to ISO manufacturing standards.
-* **The Result:** Completed intensive 12 month industrial training program with excellence in production operations.
+### 🔹 **Industrial Engineering Trainee**
+**TI Tsubamex Pvt. Ltd. | Precision Engineering** | *May 2016 - May 2017*
+* **The Focus:** High precision manufacturing and quality assurance for automotive tool & die components
+* **The Fix:** Executed rigorous quality control checks and adhered to ISO manufacturing standards
+* **The Result:** Completed intensive 12 month industrial training program with excellence in production operations
 
 
 ---
