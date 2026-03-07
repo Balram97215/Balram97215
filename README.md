@@ -128,7 +128,7 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 
 ## 💼 Professional Experience
 
-### 🔹 **Data Analytics**
+### 🔹 **Volunteer Business Intelligence Engineer**
 **Community Dreams Foundation | Real Estate Analytics** | *Aug 2025 - Present*
 * **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis
 * **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data
@@ -139,7 +139,7 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 * **The Fix:** Build a Machine Learning tool that scans real-time housing data to flag suspicious price changes, giving community leaders an early warning system to protect buyers
 * **The Result:** Reduced validation cycle time by **80%** and resolved critical syntax incompatibilities during cloud migration
 
-### 🔹 **Technical Data Consultant (Contract)**
+### 🔹 **Business Intelligence Developer (Contract)**
 **Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration** | *Sep 2022 - Aug 2023*
 * **The Challenge:** Integrating the 'Vyli' AI diagnostic platform with legacy clinical systems without compromising PHI
 * **The Fix:** Translated clinical logic into **SQL-based technical specifications** and implemented a **data governance framework**
