@@ -146,13 +146,13 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 * **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks
 
 ### 🔹 **Data Operations Analyst**
-**[Indian Vellness Solutions (IVS) | Supply Chain Network Optimization](https://github.com/Balram97215/IVS-OLHS-Integration)** | *Nov 2021 - Sep 2022*
+**Indian Vellness Solutions (IVS) | Supply Chain Network Optimization** | *Nov 2021 - Sep 2022*
 * **The Challenge:** Determining optimal warehouse locations for the 'Oriental Lotus' expansion without validated cost logic
 * **The Fix:** Collaborated on a **Python-based Geospatial Network Optimizer** (Center of Gravity) and built a "Single Source of Truth" dashboard
 * **The Result:** Validated Cost of Goods Sold (COGS) logic and provided the first real time view of product sales
   
 ### 🔹 **Supply Chain Data Analyst**
-**[Transview Enterprise (TVI) | Operations Analytics & Six Sigma](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)** | *Oct 2020 - Oct 2021*
+**Transview Enterprise (TVI) | Operations Analytics & Six Sigma** | *Oct 2020 - Oct 2021*
 * **The Challenge:** Critical 3-day delivery delays due to inefficient packing bottlenecks
 * **The Fix:** Spearheaded a **Lean Six Sigma** initiative utilizing **EDA** and **ABC Slotting strategies** for high velocity SKUs
 * **The Result:** Replaced intuition based decision making with **statistically validated A/B testing frameworks**, restoring SLAs
