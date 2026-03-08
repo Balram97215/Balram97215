@@ -128,7 +128,7 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 
 ## 💼 Professional Experience
 
-### 🔹 **Volunteer Business Intelligence Engineer**
+### 🔹 **Pro Bono Business Intelligence Developer**
 **Community Dreams Foundation | Real Estate Analytics** | *Aug 2025 - Present*
 * **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis
 * **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data
