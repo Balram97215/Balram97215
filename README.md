@@ -123,75 +123,85 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-  <a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balram97215&repo=Florida_RealEstate_DataPipeline&hide_border=true&bg_color=f0f4ff&title_color=1e40af&icon_color=2563EB&text_color=374151" width="100%"/>
-  </a>
-  <br/>
-  <sub><b>10.8M records</b> · 27+ dashboards · <b>21.4%</b> corporate ownership surfaced for fair-housing advocacy</sub>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" width="56"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="20"/>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">🏠 Florida Real Estate Pipeline</a></h3>
+<img src="https://img.shields.io/badge/10.8M%20Records-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/27%2B%20Dashboards-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/21.4%25%20Corporate%20Ownership%20Surfaced-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>End-to-end pipeline exposing corporate ownership patterns across Florida for fair-housing advocacy. Built with DuckDB, orchestrated with Docker, visualized in Superset.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="22" title="DuckDB"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" width="64" title="Superset"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="22" title="Docker"/>
 </td>
-<td width="50%" valign="top" align="center">
-  <a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balram97215&repo=Supply_Chain_Network_Optimizer&hide_border=true&bg_color=f0f4ff&title_color=1e40af&icon_color=2563EB&text_color=374151" width="100%"/>
-  </a>
-  <br/>
-  <sub>Live CoG simulator — <b>~18% freight cost reduction</b> modelled for dual-node warehouse strategy</sub>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20"/>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">🚚 Supply Chain Network Optimizer</a></h3>
+<img src="https://img.shields.io/badge/%7E18%25%20Freight%20Cost%20Reduction-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live%20CoG%20Simulator-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>Interactive centre-of-gravity simulator modelling dual-node warehouse strategy. Enables real-time what-if analysis on freight costs in Power BI.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="22" title="Power BI"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
 </td>
+
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
-  <a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balram97215&repo=SQL-Migration-Case-Study&hide_border=true&bg_color=f0f4ff&title_color=1e40af&icon_color=2563EB&text_color=374151" width="100%"/>
-  </a>
-  <br/>
-  <sub>T-SQL → PostgreSQL for AML/KYC — <b>80% faster</b> validation adopted across AMER / EMEA / APAC</sub>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="20"/>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Balram97215/SQL-Migration-Case-Study">🔄 SQL Migration Framework</a></h3>
+<img src="https://img.shields.io/badge/%E2%86%93%2080%25%20Validation%20Time-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/AMER%20%7C%20EMEA%20%7C%20APAC-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>T-SQL → PostgreSQL migration for AML/KYC workloads at NICE Actimize. Framework adopted globally; cut validation cycle time by 80%.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="22" title="PostgreSQL"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="22" title="SQL"/>
 </td>
-<td width="50%" valign="top" align="center">
-  <a href="https://github.com/Balram97215/Student-Drop-out-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balram97215&repo=Student-Drop-out-Analytics&hide_border=true&bg_color=f0f4ff&title_color=1e40af&icon_color=2563EB&text_color=374151" width="100%"/>
-  </a>
-  <br/>
-  <sub>AUC <b>0.96</b> · F1 <b>0.92</b> — tuition non-payment flags 87% of at-risk students early</sub>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20"/>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Balram97215/Student-Drop-out-Analytics">🎓 Student Dropout Predictor</a></h3>
+<img src="https://img.shields.io/badge/AUC%200.96-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/F1%200.92-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/87%25%20At--Risk%20Flagged%20Early-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>XGBoost classifier predicting university dropout risk. Tuition non-payment is the #1 signal; model enables early intervention at scale.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="22" title="NumPy"/>
 </td>
+
 </tr>
 <tr>
-<td colspan="2" align="center">
-  <a href="https://github.com/Balram97215/Employee-Attrition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balram97215&repo=Employee-Attrition&hide_border=true&bg_color=f0f4ff&title_color=1e40af&icon_color=2563EB&text_color=374151" width="50%"/>
-  </a>
-  <br/>
-  <sub>Overtime + low satisfaction = top attrition signals — interpretable model for direct HR action</sub>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="20"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20"/>
+
+<td colspan="2" valign="top" align="center">
+<h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
+<img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
 </td>
+
 </tr>
 </table>
 </div>
@@ -347,22 +357,16 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balram97215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=f0f4ff&title_color=1e40af&icon_color=2563EB&text_color=374151" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Balram97215&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram97215&layout=compact&hide_border=true&bg_color=f0f4ff&title_color=1e40af&text_color=374151" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram97215&layout=compact&hide_border=true" width="40%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balram97215&hide_border=true&background=f0f4ff&ring=1e40af&fire=2563EB&currStreakLabel=1e40af" width="56%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balram97215&hide_border=true" width="56%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balram97215&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram97215&bg_color=f0f4ff&color=1e40af&line=2563EB&point=1e40af&area=true&hide_border=true" width="100%"/>
-</div>
 
 <br/>
 
