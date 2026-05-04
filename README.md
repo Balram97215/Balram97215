@@ -1,12 +1,29 @@
 <div align="center">
-  <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" width="150px" style="border-radius:50%;" alt="Balram Bhanu Iyengar – profile photo"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" width="140px" style="border-radius:50%;" alt="Balram Bhanu Iyengar – profile photo"/>
+
   <h1>Balram Bhanu Iyengar</h1>
-  <h3>Data Engineer &nbsp;·&nbsp; Analytics Engineer &nbsp;·&nbsp; Supply Chain Data Specialist</h3>
-  <p><em>"I bridge the gap between Boardroom Strategy and Engine Room Code."</em></p>
+  <h3>Data Engineer &nbsp;|&nbsp; ELT Pipelines · SQL · Python · BI</h3>
+
   <p>
-    <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    M.S. Business Analytics · UMass Amherst (Isenberg)
+    &nbsp;·&nbsp;
+    <em>Operations → Analytics → Engineering</em>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/balram-iyengar-97shree">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     &nbsp;
-    <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email-iyengarbalram97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:iyengarbalram97@gmail.com">
+      <img src="https://img.shields.io/badge/Email-iyengarbalram97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Currently_Building-Florida_Real_Estate_Pipeline_%2810.8M_records%29-22c55e?style=flat-square" alt="Currently building"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Learning-dbt_%7C_Airflow_%7C_AWS_Glue-f59e0b?style=flat-square" alt="Currently learning"/>
   </p>
 </div>
 
@@ -14,8 +31,8 @@
 
 ## 🟢 Open to Opportunities
 
-> **Actively seeking** full-time roles as a **Data Engineer**, **Analytics Engineer**, or **Data Platform Engineer** — open to hybrid / remote in the US.  
-> M.S. Business Analytics · UMass Amherst (Isenberg School of Management) · Work-authorized · Available now
+> Seeking full-time roles as a **Data Engineer** or **Analytics Engineer** — US-based, hybrid or remote.  
+> Work-authorized in the US · Available now · Background spans supply chain, financial compliance, and healthcare data.
 
 ---
 
@@ -35,124 +52,163 @@
 
 | Metric | Result | Where |
 |--------|--------|-------|
-| ⏱️ Data validation cycle time | **↓ 80%** | NICE Actimize — T-SQL → PostgreSQL migration framework |
-| 📊 Reporting latency | **↓ 90%** | IVS — Python ETL replacing 3-day manual reporting cycle |
-| 🚚 Projected freight cost | **↓ ~15–20%** | Supply chain CoG simulation (synthetic-data model) |
-| 🗂️ Data pipeline scale | **10.8M records** | Florida Real Estate — all 68 counties, DuckDB warehouse |
+| ⏱️ Validation cycle time | **↓ 80%** | NICE Actimize — automated T-SQL → PostgreSQL migration checks |
+| 📊 Reporting latency | **↓ 90%** (3 days → <30 min) | IVS — Python ETL replacing manual Excel consolidation |
+| 🩺 Data validation errors | **↓ ~40%** | Sparcolife — SQL governance framework for AI-diagnostic integration |
+| 🗂️ Pipeline scale delivered | **10.8 M records** | Florida Real Estate — all 68 FL counties in a DuckDB warehouse |
 
 ---
 
 ## 🗂️ Featured Projects
 
 ### 1 · [Florida Real Estate Data Pipeline](https://github.com/Balram97215/Florida_RealEstate_DataPipeline)
-> **Stack:** Python · fiona · DuckDB · SQL · Apache Superset · Docker · pyproj
+> `Python` `fiona` `pyproj` `DuckDB` `SQL` `Apache Superset` `Docker` `Parquet`
 
-**Built for** [Community Dreams Foundation](https://communitydreamsfoundation.org) — a nonprofit focused on fair housing policy.
+**Client:** [Community Dreams Foundation](https://communitydreamsfoundation.org) — nonprofit focused on fair housing policy (pro bono, ongoing).
+
+```
+Parcels.gdb (Esri Geodatabase — all 68 FL counties)
+       │
+       ▼  fiona + pyproj (EPSG:6439 → WGS84)
+  EXTRACT → Parquet chunks (50 k rows each)
+       │
+       ▼  DuckDB read_parquet (out-of-core)
+   LOAD → staging_parcels
+       │
+       ▼  SQL execution
+TRANSFORM → parcels OBT · sales · ref tables
+       │
+       ▼  12+ automated quality checks
+VALIDATE → PASS / WARN / FAIL per check
+       │
+       ▼  Docker Compose (Superset + Postgres + Redis)
+DASHBOARDS → 27+ v_dash_* views · 8 EDA modules
+```
 
 | | |
 |---|---|
-| **Problem** | Florida's Department of Revenue publishes parcel data as Esri `.gdb` files — a geospatial format that requires significant engineering work to process. No existing tooling at the organization; analysts worked from manually downloaded CSVs with no cross-county view. |
-| **Approach** | Designed a 4-phase ELT pipeline: extract from `.gdb` using `fiona` + `pyproj` (CRS reprojection EPSG:6439 → WGS84) → chunk to Parquet → load into DuckDB → transform via SQL (OBT, sales, reference tables) → validate with 12+ automated quality checks. Containerised Apache Superset (Docker Compose) for 27+ dashboard views. |
-| **Output** | Processed all **10.8 million** Florida parcel records across 68 counties. Key finding: **21.4% corporate ownership concentration** statewide — a headline metric for fair-housing policy analysis. Includes 8 EDA modules and an automated cross-validation layer. |
+| **Problem** | Florida DOR publishes 10.8 M property records as Esri `.gdb` files. No tooling existed at the organization; analysts downloaded CSVs manually with no cross-county visibility. |
+| **What I built** | 4-phase ELT pipeline (Extract → Load → Transform → Validate) with a containerised Apache Superset BI layer. |
+| **Key finding** | **21.4% corporate ownership concentration** identified statewide — the headline metric driving the foundation's fair-housing advocacy. |
 
 ---
 
 ### 2 · [SQL Migration & Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-> **Stack:** PostgreSQL · T-SQL · PL/pgSQL · pgAdmin
+> `PostgreSQL` `T-SQL` `PL/pgSQL` `pgAdmin`
 
-**Built during** internship at NICE Actimize (Financial Crime Compliance — AML/Fraud Detection).
+**Context:** Internship at NICE Actimize — Financial Crime Compliance (AML / KYC).
 
 | | |
 |---|---|
-| **Problem** | Migrating Actimize's AML/KYC solution library from SQL Server / Oracle to cloud PostgreSQL. The existing T-SQL scripts used proprietary functions (`CHARINDEX`, `GETDATE`, `GOTO` flow control, `MONEY` type) incompatible with PostgreSQL — causing silent validation failures in compliance-critical data pipelines. |
-| **Approach** | Systematically refactored the T-SQL library to PostgreSQL-native equivalents (`POSITION`, `NOW()`, structured `EXCEPTION` blocks, `NUMERIC`). Built a reusable validation taxonomy covering null checks, referential integrity, domain integrity, and uniqueness — applied across CDD, WLF, and SAM modules. |
-| **Impact** | Reduced validation cycle time by **~80%**, standardized the framework across AMER/EMEA/APAC regions, and presented findings directly to the C-suite. |
+| **Problem** | Migrating Actimize's AML detection library (CDD, WLF, SAM modules) from SQL Server to cloud PostgreSQL. Proprietary T-SQL syntax (`CHARINDEX`, `GETDATE`, `GOTO`, `MONEY` type) caused silent failures in compliance-critical validation scripts. |
+| **What I built** | Systematic refactoring to PostgreSQL-native equivalents (`POSITION`, `NOW()`, structured `EXCEPTION` blocks, `NUMERIC`). Paired with a reusable validation taxonomy: null checks, referential integrity, domain integrity, uniqueness. |
+| **Impact** | Validation cycle time **↓ 80%**. Framework standardised across AMER/EMEA/APAC. Findings presented to C-suite. |
 
 ---
 
 ### 3 · [Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)
-> **Stack:** Python · Pandas · Matplotlib · Power BI (embedded Python scripts)
+> `Python` `Pandas` `Matplotlib` `Power BI` *(embedded Python script visuals)*
 
-**Note:** This is a simulation tool built on synthetic data (10,000+ generated orders).
+> ⚠️ **Simulation tool** — built on 10 k+ synthetically generated orders, not live production data.
 
 | | |
 |---|---|
-| **Problem** | Logistics teams typically rely on spreadsheet heuristics to decide where to open new distribution nodes — with no dynamic modelling of how demand shift changes the optimal location. |
-| **Approach** | Generated realistic order data using skewed probability distributions, then applied a **weighted Center-of-Gravity** algorithm to calculate the mathematically optimal warehouse placement. Embedded the Python calculation engine directly inside Power BI, making the map respond to user filters (region, season, volume threshold) in real time. |
-| **Output** | Simulation identified a dual-node network (NJ + NV) that reduces simulated Zone 8 freight cost by **~18%** and cuts West Coast delivery time by 4 days. Tool is reusable for any demand dataset. |
+| **Problem** | Logistics decisions for new distribution nodes relied on spreadsheet heuristics with no way to model how seasonal demand shifts change the optimal hub location. |
+| **What I built** | Weighted Center-of-Gravity engine generating realistic order data via skewed distributions, then computing the mathematically optimal placement. Python runs *inside* the Power BI query editor so the map re-calculates on every user filter change. |
+| **Simulation result** | Dual-node network (NJ + NV) reduces Zone 8 freight cost by **~18%** and cuts West Coast delivery time by 4 days in the model. |
 
 ---
 
 ### 4 · [Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)
-> **Stack:** Python · scikit-learn · XGBoost · Pandas
+> `Python` `scikit-learn` `XGBoost` `Pandas`
 
 **Academic project** — M.S. Business Analytics, UMass Amherst.
 
 | | |
 |---|---|
-| **Problem** | Institutions spend resources on blanket retention programs without knowing which students are actually at risk — or why. |
-| **Approach** | Trained Random Forest, XGBoost, and an ensemble Voting Classifier on 4,424 student records with 35 demographic, academic, and socioeconomic features. Applied permutation importance to identify the top predictive signals. |
-| **Results** | Voting Classifier: **AUC 0.96 · F1 0.92 · Balanced Accuracy 0.93**. Top finding: tuition payment status alone predicts dropout in 87% of cases among students with unpaid fees — actionable for early financial-aid intervention. |
+| **Problem** | Universities run blanket retention programs without knowing *which* students are at risk or *why* — expensive and often too late. |
+| **What I built** | Voting Classifier (Random Forest + XGBoost ensemble) on 4,424 records with 35 features. Permutation importance surfaced the most actionable signals for early intervention. |
+| **Results** | **AUC 0.96 · F1 0.92 · Balanced Accuracy 0.93.** Top finding: tuition non-payment predicts dropout in 87% of cases — actionable for targeted financial-aid outreach. |
 
 ---
 
 ### 5 · [Employee Attrition Predictor](https://github.com/Balram97215/Employee-Attrition)
-> **Stack:** Python · scikit-learn · Pandas · Logistic Regression
+> `Python` `scikit-learn` `Pandas` `Logistic Regression`
 
 **Academic project** — M.S. Business Analytics, UMass Amherst.
 
 | | |
 |---|---|
-| **Problem** | Blanket retention incentives are costly. HR needs to know *which* employees are at risk and *why* — not just that attrition is high. |
-| **Approach** | End-to-end ML pipeline on 2,940 HR records (33 features): cleaning, one-hot encoding, z-score normalization, logistic regression with class weighting for the imbalanced 16% attrition rate. Emphasized interpretability over raw accuracy so HR could act on coefficients. |
-| **Key findings** | Overtime, poor environment satisfaction, long commute, and infrequent promotions were the strongest attrition signals — translated into concrete HR intervention priorities. |
+| **Problem** | Blanket retention incentives are expensive; HR needs to know *who* is at risk and *why*. |
+| **What I built** | End-to-end logistic regression pipeline on 2,940 HR records (33 features, 16% attrition base rate). Prioritised interpretability — model coefficients translate directly into HR action. |
+| **Key finding** | Overtime, poor environment satisfaction, long commute, and infrequent promotions were the strongest attrition signals. |
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-| **Data Engineering** | **Languages & Analytics** | **Governance & Methods** |
-|---|---|---|
-| DuckDB · SQL (PostgreSQL, T-SQL) | Python (Pandas, NumPy, fiona, pyproj) | Master Data Management (MDM) |
-| Apache Airflow (learning) · Spark | Scikit-learn · XGBoost · Matplotlib | Data Quality & Validation frameworks |
-| Docker · Superset · Parquet | Power BI (DAX) · DAX | Lean Six Sigma (Yellow Belt) |
-| AWS (S3, RDS — learning) · Snowflake | Feature Engineering · EDA | Agile / Scrum · Stakeholder Mgmt |
+**Data Engineering & Storage**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FDD835?style=flat-square&logo=duckdb&logoColor=black)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apache&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Currently Building Towards**
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**Domain expertise:** Supply Chain Analytics · Financial Crime Compliance (AML/KYC) · Healthcare Data Governance · Lean Six Sigma (Yellow Belt)
 
 ---
 
 ## 💼 Professional Experience
 
 ### Business Intelligence Developer — Pro Bono
-**[Community Dreams Foundation](https://communitydreamsfoundation.org) — Florida Real Estate Analytics** · *Aug 2025 – Present*
-- Building a production ELT pipeline processing **10.8 million** Florida property records (all 68 counties) from Esri GDB format into a DuckDB analytical warehouse.
-- Delivering 27+ Apache Superset dashboard views surfacing corporate ownership concentration and county-level valuation trends for fair-housing policy work.
+**[Community Dreams Foundation](https://communitydreamsfoundation.org)** · *Aug 2025 – Present*
+- Building and maintaining a production ELT pipeline processing **10.8 M** Florida property records (all 68 counties) from Esri GDB into a DuckDB analytical warehouse + Superset dashboards.
+- Key output: 21.4% statewide corporate ownership concentration — surfaced for fair-housing policy work.
 
 ### Business Analytics Intern
-**[NICE Actimize](https://github.com/Balram97215/SQL-Migration-Case-Study) — Financial Crime Compliance** · *May 2024 – Jul 2024*
-- Migrated the AML/KYC data validation script library from T-SQL to PostgreSQL-native syntax for a cloud migration affecting AMER/EMEA/APAC clients.
-- Reduced validation cycle time **~80%**; presented findings and efficiency gains directly to C-suite.
+**[NICE Actimize](https://github.com/Balram97215/SQL-Migration-Case-Study)** — Financial Crime Compliance · *May 2024 – Jul 2024*
+- Migrated AML/KYC data validation library from T-SQL to PostgreSQL-native syntax for a cloud migration covering AMER/EMEA/APAC clients.
+- Automated error detection cut validation cycle time **~80%**; presented efficiency gains to C-suite.
 
 ### Business Intelligence Developer — Contract
-**Sparcolife Digital Healthcare — Vyli AI-Diagnostic Integration** · *Sep 2022 – Aug 2023*
-- Translated clinical business rules into SQL technical specifications to integrate the Vyli AI diagnostic platform with legacy systems while maintaining HIPAA-compliant PHI controls.
-- Implemented a data governance framework that reduced validation errors by **~40%** and cut the compliance audit cycle by 2 weeks.
+**Sparcolife Digital Healthcare** — Vyli AI-Diagnostic Integration · *Sep 2022 – Aug 2023*
+- Translated clinical business rules into SQL specs to integrate an AI diagnostic platform with legacy clinical systems under HIPAA PHI constraints.
+- Data governance framework reduced validation errors **~40%** and cut compliance audit cycle by 2 weeks.
 
 ### Data Operations Analyst
-**[Indian Vellness Solutions (IVS)](https://github.com/Balram97215/IVS-OLHS-Integration) — Post-Acquisition Supply Chain** · *Nov 2021 – Sep 2022*
-- Built Python ETL pipelines to integrate the acquired *Oriental Lotus* division's fragmented Excel/CSV data into a central SQL instance, reducing reporting latency from 3 days to under 30 minutes (**90% reduction**).
-- Co-developed a Center-of-Gravity network optimizer projecting a **15–20% reduction** in West Coast shipping costs for the new distribution node decision.
+**[Indian Vellness Solutions (IVS)](https://github.com/Balram97215/IVS-OLHS-Integration)** — Post-Acquisition Supply Chain · *Nov 2021 – Sep 2022*
+- Built Python ETL pipelines to integrate a newly acquired division's fragmented data into a central SQL instance — reporting latency from 3 days to <30 min (**90% reduction**).
+- Co-developed a Center-of-Gravity network optimizer projecting **15–20% freight cost reduction** for new warehouse placement.
 
 <details>
 <summary>Earlier roles (2017 – 2021)</summary>
 
 **Supply Chain Data Analyst · [Transview Enterprise (TVI)](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)** *(Oct 2020 – Oct 2021)*  
-Applied DMAIC / Lean Six Sigma to eliminate a 3-day packing backlog for QNET's global e-commerce operations. ABC slotting reduced picker travel ~30%; A/B testing framework replaced gut-feel product launches with statistically validated decisions.
+DMAIC / Lean Six Sigma initiative for QNET's global e-commerce fulfillment. ABC slotting cut picker travel ~30%; A/B testing framework replaced gut-feel product launches. Eliminated a 3-day packing backlog, restoring SLAs.
 
 **Technical Support Engineer · Fidelis Corporate Solutions (DXC Technology)** *(Mar 2020 – Jun 2020)*  
-Enterprise incident triage and root cause analysis, maintaining SLAs for DXC Technology clients.
+Enterprise incident triage and root cause analysis for DXC Technology clients.
 
 **Industrial Engineering Trainee · TI Tsubamex Pvt. Ltd.** *(May 2016 – May 2017)*  
-Quality control and ISO standards adherence for precision automotive tooling.
+Quality control and ISO adherence for precision automotive tooling.
 
 </details>
 
@@ -160,11 +216,11 @@ Quality control and ISO standards adherence for precision automotive tooling.
 
 ## 👨‍💻 My Story
 
-I'm a first-generation M.S. graduate (Business Analytics, UMass Amherst) who spent the early part of my career in operations — where "data" meant urgent spreadsheets, not clean pipelines.
+Operations taught me what bad data costs. Early in my career — managing supply chain data at IVS and TVI — I watched capable teams make expensive decisions based on 3-day-old Excel files. The problem wasn't skill or intent; it was infrastructure.
 
-Watching capable teams make costly decisions without reliable data made me realize the gap wasn't skill — it was infrastructure. I self-taught Python and SQL on the job, and each role pushed me further: from manual reporting to ETL automation, from gut-feel decisions to A/B testing, from spreadsheets to production data warehouses.
+That experience pushed me toward analytics, then engineering. I self-taught Python and SQL, built pipelines to replace manual processes, and kept finding the same pattern: the bottleneck was never the analyst — it was the plumbing. My M.S. at UMass Amherst and internship at NICE Actimize in financial crime compliance solidified what I wanted to build: data systems that are reliable by design, not by luck.
 
-My 2024 internship at NICE Actimize in financial crime compliance gave me the professional context I needed: real data quality stakes, enterprise-scale SQL, and direct exposure to how data engineering decisions affect compliance outcomes. Today I build pipelines that trade fragility for reliability, and dashboards that trade noise for clarity.
+I'm not the candidate who has worked at a FAANG company. I'm the one who has worked across messy, real operational problems — supply chain fragmentation, AML compliance migration, post-acquisition data chaos, geospatial public-interest work — and built solutions that actually ran.
 
 ---
 
@@ -184,11 +240,10 @@ My 2024 internship at NICE Actimize in financial crime compliance gave me the pr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balram97215&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="Balram's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram97215&layout=compact&hide_border=true&theme=default" width="40%" alt="Top languages used by Balram"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram97215&layout=compact&hide_border=true&theme=default" width="40%" alt="Top languages"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balram97215&hide_border=true&theme=default" width="55%" alt="Balram's GitHub streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balram97215&hide_border=true&theme=default" width="55%" alt="GitHub streak"/>
 </div>
 
 ---
@@ -196,7 +251,11 @@ My 2024 internship at NICE Actimize in financial crime compliance gave me the pr
 <div align="center">
   <em>"Data without context is just noise. Data with context is strategy."</em>
   <br/><br/>
-  <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/balram-iyengar-97shree">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Balram"></a>
+  <a href="mailto:iyengarbalram97@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Balram"/>
+  </a>
 </div>
