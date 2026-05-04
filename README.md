@@ -2,12 +2,12 @@
   <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" width="140px" style="border-radius:50%;" alt="Balram Bhanu Iyengar – profile photo"/>
 
   <h1>Balram Bhanu Iyengar</h1>
-  <h3>Data Engineer &nbsp;|&nbsp; ELT Pipelines · SQL · Python · BI</h3>
+  <h3>Business Intelligence Developer &nbsp;|&nbsp; SQL · Power BI · Superset · Python · ELT</h3>
 
   <p>
     M.S. Business Analytics · UMass Amherst (Isenberg)
     &nbsp;·&nbsp;
-    <em>Operations → Analytics → Engineering</em>
+    <em>Operations → Analytics → BI → Engineering</em>
   </p>
 
   <p>
@@ -31,7 +31,8 @@
 
 ## 🟢 Open to Opportunities
 
-> Seeking full-time roles as a **Data Engineer** or **Analytics Engineer** — US-based, hybrid or remote.  
+> Seeking full-time **Business Intelligence Developer** or **Analytics Engineer** roles — US-based, hybrid or remote.  
+> I also carry the engineering rigor (ELT pipelines, DuckDB, Docker, Python) to step into a **Data Engineer** role as I continue building that stack.  
 > Work-authorized in the US · Available now · Background spans supply chain, financial compliance, and healthcare data.
 
 ---
@@ -62,15 +63,24 @@
 ## 🗂️ Featured Projects
 
 ### 1 · [Florida Real Estate Data Pipeline](https://github.com/Balram97215/Florida_RealEstate_DataPipeline)
-> `Python` `fiona` `pyproj` `DuckDB` `SQL` `Apache Superset` `Docker` `Parquet`
+> `SQL` `Apache Superset` `DuckDB` `Python` `fiona` `pyproj` `Docker` `Parquet`
 
 **Client:** [Community Dreams Foundation](https://communitydreamsfoundation.org) — nonprofit focused on fair housing policy (pro bono, ongoing).
+
+| | |
+|---|---|
+| **Business question** | Where is corporate ownership concentrated across Florida, and which counties have the most distorted assessed-vs-just value ratios? No cross-county view existed — analysts downloaded county CSVs manually. |
+| **BI output** | **27+ Superset dashboard views** across 8 analytical domains: ownership concentration, valuation trends, sales analysis, building age distribution, and county-level comparisons. Key finding: **21.4% corporate ownership statewide** — the headline metric for fair-housing advocacy. |
+| **What made it possible** | To get clean, query-ready data I had to build the plumbing: a 4-phase ELT pipeline processing **10.8 M** parcel records from Esri `.gdb` format (EPSG:6439 → WGS84) into a DuckDB analytical warehouse, with 12+ automated data quality checks before any dashboard was built. |
+
+<details>
+<summary>Pipeline architecture</summary>
 
 ```
 Parcels.gdb (Esri Geodatabase — all 68 FL counties)
        │
        ▼  fiona + pyproj (EPSG:6439 → WGS84)
-  EXTRACT → Parquet chunks (50 k rows each)
+  EXTRACT → Parquet chunks (50k rows each)
        │
        ▼  DuckDB read_parquet (out-of-core)
    LOAD → staging_parcels
@@ -85,15 +95,25 @@ VALIDATE → PASS / WARN / FAIL per check
 DASHBOARDS → 27+ v_dash_* views · 8 EDA modules
 ```
 
-| | |
-|---|---|
-| **Problem** | Florida DOR publishes 10.8 M property records as Esri `.gdb` files. No tooling existed at the organization; analysts downloaded CSVs manually with no cross-county visibility. |
-| **What I built** | 4-phase ELT pipeline (Extract → Load → Transform → Validate) with a containerised Apache Superset BI layer. |
-| **Key finding** | **21.4% corporate ownership concentration** identified statewide — the headline metric driving the foundation's fair-housing advocacy. |
+</details>
 
 ---
 
-### 2 · [SQL Migration & Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
+### 2 · [Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)
+> `Power BI` `Python` `Pandas` `Matplotlib` *(Python scripts embedded inside Power BI)*
+
+> ⚠️ **Simulation tool** — built on 10,000+ synthetically generated orders, not live production data.
+
+| | |
+|---|---|
+| **Business question** | Where should a retailer open a second distribution node to minimise freight cost — and how does the answer change by season or product category? |
+| **BI output** | Interactive Power BI dashboard where every user filter (region, season, volume threshold) re-runs a Python Center-of-Gravity calculation live and redraws the optimal hub on the map. Decision-makers get a what-if simulator, not a static chart. |
+| **Engineering detail** | Weighted CoG algorithm runs *inside* the Power BI query engine via embedded Python script visuals. Synthetic order data generated with skewed probability distributions to simulate realistic demand patterns. |
+| **Simulation result** | Dual-node network (NJ + NV) reduces Zone 8 freight cost by **~18%** and cuts West Coast delivery time by 4 days in the model. |
+
+---
+
+### 3 · [SQL Migration & Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
 > `PostgreSQL` `T-SQL` `PL/pgSQL` `pgAdmin`
 
 **Context:** Internship at NICE Actimize — Financial Crime Compliance (AML / KYC).
@@ -103,19 +123,6 @@ DASHBOARDS → 27+ v_dash_* views · 8 EDA modules
 | **Problem** | Migrating Actimize's AML detection library (CDD, WLF, SAM modules) from SQL Server to cloud PostgreSQL. Proprietary T-SQL syntax (`CHARINDEX`, `GETDATE`, `GOTO`, `MONEY` type) caused silent failures in compliance-critical validation scripts. |
 | **What I built** | Systematic refactoring to PostgreSQL-native equivalents (`POSITION`, `NOW()`, structured `EXCEPTION` blocks, `NUMERIC`). Paired with a reusable validation taxonomy: null checks, referential integrity, domain integrity, uniqueness. |
 | **Impact** | Validation cycle time **↓ 80%**. Framework standardised across AMER/EMEA/APAC. Findings presented to C-suite. |
-
----
-
-### 3 · [Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)
-> `Python` `Pandas` `Matplotlib` `Power BI` *(embedded Python script visuals)*
-
-> ⚠️ **Simulation tool** — built on 10 k+ synthetically generated orders, not live production data.
-
-| | |
-|---|---|
-| **Problem** | Logistics decisions for new distribution nodes relied on spreadsheet heuristics with no way to model how seasonal demand shifts change the optimal hub location. |
-| **What I built** | Weighted Center-of-Gravity engine generating realistic order data via skewed distributions, then computing the mathematically optimal placement. Python runs *inside* the Power BI query editor so the map re-calculates on every user filter change. |
-| **Simulation result** | Dual-node network (NJ + NV) reduces Zone 8 freight cost by **~18%** and cuts West Coast delivery time by 4 days in the model. |
 
 ---
 
@@ -147,29 +154,29 @@ DASHBOARDS → 27+ v_dash_* views · 8 EDA modules
 
 ## 🛠️ Technical Toolkit
 
-**Data Engineering & Storage**
+**BI & Reporting** *(primary)*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apache&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+
+**Data Engineering** *(differentiator — I build the pipes when the data isn't there yet)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FDD835?style=flat-square&logo=duckdb&logoColor=black)
 ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Analytics & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apache&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
 **Currently Building Towards**
 
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 **Domain expertise:** Supply Chain Analytics · Financial Crime Compliance (AML/KYC) · Healthcare Data Governance · Lean Six Sigma (Yellow Belt)
@@ -216,11 +223,11 @@ Quality control and ISO adherence for precision automotive tooling.
 
 ## 👨‍💻 My Story
 
-Operations taught me what bad data costs. Early in my career — managing supply chain data at IVS and TVI — I watched capable teams make expensive decisions based on 3-day-old Excel files. The problem wasn't skill or intent; it was infrastructure.
+Operations taught me what bad data costs. Early in my career — managing supply chain data at Indian Vellness Solutions (IVS) and Transview Enterprise (TVI) — I watched capable teams make expensive decisions from 3-day-old Excel files. I didn't fix the decisions; I fixed the reporting.
 
-That experience pushed me toward analytics, then engineering. I self-taught Python and SQL, built pipelines to replace manual processes, and kept finding the same pattern: the bottleneck was never the analyst — it was the plumbing. My M.S. at UMass Amherst and internship at NICE Actimize in financial crime compliance solidified what I wanted to build: data systems that are reliable by design, not by luck.
+That's what drew me to BI. I started building dashboards and SQL reports because I could see the direct line between a clean, well-modelled dataset and a better business call. At Sparcolife I owned the data governance layer for a clinical AI integration. At NICE Actimize I automated compliance validation SQL across three global regions. The pattern was consistent: the analyst had the right questions, but the data was never in the right shape.
 
-I'm not the candidate who has worked at a FAANG company. I'm the one who has worked across messy, real operational problems — supply chain fragmentation, AML compliance migration, post-acquisition data chaos, geospatial public-interest work — and built solutions that actually ran.
+What separates me from most BI candidates is that I can also build the pipeline when the data isn't there yet. The Florida Real Estate project is the proof: I processed 10.8 M government records from a geospatial format nobody had tackled at the organization, built a DuckDB warehouse from scratch, and then delivered 27+ Superset dashboard views on top of it. I'm a BI developer who doesn't stop at the edge of the source system.
 
 ---
 
