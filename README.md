@@ -112,102 +112,6 @@
 
 <br/>
 
-<!-- ██████████████████████  FEATURED BUILDS  ██████████████████████ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%8C%20FEATURED%20BUILDS-1e3a8a?style=for-the-badge" height="36"/>
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">🏠 Florida Real Estate Pipeline</a></h3>
-<img src="https://img.shields.io/badge/10.8M%20Records-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/27%2B%20Dashboards-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/21.4%25%20Corporate%20Ownership%20Surfaced-22c55e?style=flat-square"/>
-<br/><br/>
-<sub>End-to-end pipeline exposing corporate ownership patterns across Florida for fair-housing advocacy. Built with DuckDB, orchestrated with Docker, visualized in Superset.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="22" title="DuckDB"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" width="64" title="Superset"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="22" title="Docker"/>
-</td>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">🚚 Supply Chain Network Optimizer</a></h3>
-<img src="https://img.shields.io/badge/%7E18%25%20Freight%20Cost%20Reduction-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/Live%20CoG%20Simulator-2563EB?style=flat-square"/>
-<br/><br/>
-<sub>Interactive centre-of-gravity simulator modelling dual-node warehouse strategy. Enables real-time what-if analysis on freight costs in Power BI.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="22" title="Power BI"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/SQL-Migration-Case-Study">🔄 SQL Migration Framework</a></h3>
-<img src="https://img.shields.io/badge/%E2%86%93%2080%25%20Validation%20Time-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/AMER%20%7C%20EMEA%20%7C%20APAC-2563EB?style=flat-square"/>
-<br/><br/>
-<sub>T-SQL → PostgreSQL migration for AML/KYC workloads at NICE Actimize. Framework adopted globally; cut validation cycle time by 80%.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="22" title="PostgreSQL"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="22" title="SQL"/>
-</td>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/Student-Drop-out-Analytics">🎓 Student Dropout Predictor</a></h3>
-<img src="https://img.shields.io/badge/AUC%200.96-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/F1%200.92-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/87%25%20At--Risk%20Flagged%20Early-22c55e?style=flat-square"/>
-<br/><br/>
-<sub>XGBoost classifier predicting university dropout risk. Tuition non-payment is the #1 signal; model enables early intervention at scale.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="22" title="NumPy"/>
-</td>
-
-</tr>
-<tr>
-
-<td colspan="2" valign="top" align="center">
-<h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
-<img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
-<br/><br/>
-<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
-</td>
-
-</tr>
-</table>
-</div>
-
-<br/>
-
 <!-- ██████████████████████  TECH ARSENAL  ██████████████████████ -->
 
 <div align="center">
@@ -345,6 +249,115 @@
 | DeepMind.AI Data Engineering | Coursera | In Progress |
 
 </details>
+
+<br/>
+
+<!-- ██████████████████████  FEATURED BUILDS  ██████████████████████ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%8C%20FEATURED%20BUILDS-1e3a8a?style=for-the-badge" height="36"/>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/real_estate.png?raw=true" width="100%" alt="Florida Real Estate Pipeline"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">🏠 Florida Real Estate Pipeline</a></h3>
+<img src="https://img.shields.io/badge/10.8M%20Records-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/27%2B%20Dashboards-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/21.4%25%20Corporate%20Ownership%20Surfaced-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>End-to-end pipeline exposing corporate ownership patterns across Florida for fair-housing advocacy. Built with DuckDB, orchestrated with Docker, visualized in Superset.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="22" title="DuckDB"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="22" title="Docker"/>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Supply%20Chain.jpg?raw=true" width="100%" alt="Supply Chain Network Optimizer"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">🚚 Supply Chain Network Optimizer</a></h3>
+<img src="https://img.shields.io/badge/%7E18%25%20Freight%20Cost%20Reduction-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live%20CoG%20Simulator-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>Interactive centre-of-gravity simulator modelling dual-node warehouse strategy. Enables real-time what-if analysis on freight costs in Power BI.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="22" title="Power BI"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/NICE%20Actimize.webp?raw=true" width="100%" alt="SQL Migration Case Study"/>
+</a>
+<h3><a href="https://github.com/Balram97215/SQL-Migration-Case-Study">🔄 SQL Migration Framework</a></h3>
+<img src="https://img.shields.io/badge/%E2%86%93%2080%25%20Validation%20Time-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/AMER%20%7C%20EMEA%20%7C%20APAC-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>T-SQL → PostgreSQL migration for AML/KYC workloads at NICE Actimize. Framework adopted globally; cut validation cycle time by 80%.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="22" title="PostgreSQL"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="22" title="SQL"/>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/Student-Drop-out-Analytics">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Student%20Dropout.png?raw=true" width="100%" alt="Student Dropout Predictor"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Student-Drop-out-Analytics">🎓 Student Dropout Predictor</a></h3>
+<img src="https://img.shields.io/badge/AUC%200.96-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/F1%200.92-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/87%25%20At--Risk%20Flagged%20Early-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>XGBoost classifier predicting university dropout risk. Tuition non-payment is the #1 signal; model enables early intervention at scale.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="22" title="NumPy"/>
+</td>
+
+</tr>
+<tr>
+
+<td colspan="2" valign="top" align="center">
+<a href="https://github.com/Balram97215/Employee-Attrition">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Employee%20Attrition.png?raw=true" width="60%" alt="Employee Attrition Model"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
+<img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
+</td>
+
+</tr>
+</table>
+</div>
 
 <br/>
 
