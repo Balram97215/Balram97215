@@ -484,6 +484,24 @@
     <sub>Factory floors to boardroom dashboards. Three industries, two continents, one through-line: figure out what's broken, measure it, fix it.</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="23%">
+    🏭 <strong>TI Tsubamex Industrial Training</strong><br/><br/>
+    <sub>Completed a full year on the factory floor at TI Tsubamex (Murugappa Group), Chennai — precision tool manufacturing. Learned that quality is a system, not a checklist.</sub>
+  </td>
+  <td align="center" width="23%">
+    🇮🇳 <strong>Skill India — Tool & Die Maker</strong><br/><br/>
+    <sub>Nationally certified Tool & Die Maker Level-5 under the NSDC / National Skills Qualification Framework. Practical engineering credentialed by the Government of India.</sub>
+  </td>
+  <td align="center" width="23%">
+    🌱 <strong>National Conference on Green Energy</strong><br/><br/>
+    <sub>Volunteered at the 1st National Conference on Green Energy, Environment & Sustainable Development — Presidency University, Bengaluru, March 2018. Organised before "sustainability" was a buzzword.</sub>
+  </td>
+  <td align="center" width="23%">
+    🔩 <strong>Roots in Engineering</strong><br/><br/>
+    <sub>B.Tech Mechanical Engineering (Presidency University). The rigour of stress analysis and thermodynamics taught me how to decompose complex systems — a muscle I use every time I model a data warehouse.</sub>
+  </td>
+</tr>
 </table>
 </div>
 
