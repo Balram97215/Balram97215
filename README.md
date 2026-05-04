@@ -1,11 +1,15 @@
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Balram%20Bhanu%20Iyengar&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=BI%20Developer%20%7C%20Analytics%20Engineer&descSize=20&descAlignY=74" width="100%"/>
+
+------
+
+<div align="center">
 <table border="0">
   <tr>
     <td width="30%" align="center">
       <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" style="border-radius: 50%;" width="200px" alt="Balram Headshot">
     </td>
     <td width="70%">
-      <h1>Welcome, I'm Balram Bhanu Iyengar! 👋</h1>
-      <h4>🚀 Data Analytics/Engineer | Data Governance | Supply Chain Ops</h4>
       <p>
         <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
         <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
@@ -15,9 +19,6 @@
   </tr>
 </table>
 
----
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Balram%20Bhanu%20Iyengar&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=BI%20Developer%20%7C%20Analytics%20Engineer&descSize=20&descAlignY=74" width="100%"/>
 
 ### 🚀 Career Performance Dashboard (KPIs)
 
@@ -75,21 +76,6 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" width="110" style="border-radius:50%;"/>
-
-  <p><strong>SQL · Power BI · Superset · Python · ELT</strong> &nbsp;·&nbsp; M.S. Business Analytics, UMass Amherst</p>
-
-  <a href="https://www.linkedin.com/in/balram-iyengar-97shree">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:iyengarbalram97@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-BI%20Developer%20·%20Analytics%20Engineer-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
-</div>
 
 ---
 
