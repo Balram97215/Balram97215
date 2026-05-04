@@ -1,5 +1,5 @@
 <!-- ██████████████████████  HERO  ██████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=290&text=Balram%20Bhanu%20Iyengar&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=BI%20Developer%20%7C%20Analytics%20Engineer%20%7C%20M.S.%20Business%20Analytics%2C%20UMass%20Amherst&descSize=17&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=290&text=Balram%20Bhanu%20Iyengar&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=BI%20Developer%20%7C%20M.S.%20Business%20Analytics%2C%20UMass%20Amherst&descSize=17&descAlignY=70" width="100%"/>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Turning+Raw+Data+into+Boardroom+Decisions;SQL+%7C+Power+BI+%7C+Superset+%7C+Python+%7C+ELT;10.8M+Records+%C2%B7+27%2B+Dashboards+%C2%B7+5+Industries;Open+to+Work+%E2%80%94+BI+Developer+%7C+Analytics+Engineer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Turning+Raw+Data+into+Boardroom+Decisions;SQL+%7C+Power+BI+%7C+Superset+%7C+Python+%7C+ELT;10.8M+Records+%C2%B7+27%2B+Dashboards+%C2%B7+5+Industries;Open+to+Work+%E2%80%94+BI+Developer" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Email-iyengarbalram97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-BI%20%7C%20Analytics%20Engineer-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-BI%20Developer-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
@@ -95,6 +95,9 @@
     <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28"/><br/><sub><b>T-SQL</b></sub>
   </td>
   <td align="center" width="90">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28"/><br/><sub><b>SQL Server</b></sub>
+  </td>
+  <td align="center" width="90">
     <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/><br/><sub><b>DAX</b></sub>
   </td>
   <td align="center" width="90">
@@ -102,6 +105,9 @@
   </td>
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" width="44"/><br/><sub><b>Analytics</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Data%20Storytelling-1e40af?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Data Storytelling</b></sub>
   </td>
 </tr></table>
 
@@ -143,6 +149,9 @@
   <td align="center" width="90">
     <img src="https://img.shields.io/badge/Shapely-3DAD63?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Shapely</b></sub>
   </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white" height="28"/><br/><sub><b>SQLAlchemy</b></sub>
+  </td>
 </tr></table>
 
 <br/>
@@ -169,6 +178,18 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="44"/><br/><sub><b>AWS</b></sub>
   </td>
   <td align="center" width="90">
+    <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" height="28"/><br/><sub><b>AWS S3</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="28"/><br/><sub><b>AWS Glue</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" height="28"/><br/><sub><b>Redshift</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" height="28"/><br/><sub><b>Lambda</b></sub>
+  </td>
+  <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="44"/><br/><sub><b>Snowflake</b></sub>
   </td>
   <td align="center" width="90">
@@ -176,6 +197,18 @@
   </td>
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="44"/><br/><sub><b>BigQuery</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="28"/><br/><sub><b>Kafka</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="28"/><br/><sub><b>Spark</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="28"/><br/><sub><b>Terraform</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28"/><br/><sub><b>CI/CD</b></sub>
   </td>
 </tr></table>
 
@@ -201,6 +234,18 @@
   </td>
   <td align="center" width="110">
     <img src="https://img.shields.io/badge/Data%20Governance-0f172a?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Data Governance</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Risk%20Management-dc2626?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Risk Management</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Project%20Planning-0369a1?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Project Planning</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Change%20Management-7c3aed?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Change Management</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Scope%20Management-059669?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Scope Management</b></sub>
   </td>
 </tr></table>
 
@@ -258,7 +303,7 @@
 | Data Analyst in Python | DataCamp | Completed |
 | Data Analyst in Power BI | DataCamp | Completed |
 | Google Project Management | Coursera | In Progress |
-| DeepMind.AI Data Engineering | Coursera | In Progress |
+| DeepLearning.AI Data Engineering | Coursera | In Progress |
 
 </details>
 
