@@ -34,9 +34,9 @@
 <br/>
 
 <div align="center">
-<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics. Not a pivot — a zoom out.</sub>
+<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics.</sub>
 <br/><br/>
-<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, digital healthcare, and fintech in India — not job-hopping, but vocabulary-building. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
+<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, and digital healthcare in India building my vocabulary. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
 <br/><br/>
 <sub>I'm drawn to domains where the stakes are real: mental health platforms, fair-housing advocacy, financial crime prevention. Numbers that move policy, not just PowerPoints.</sub>
 </div>
@@ -469,11 +469,11 @@
 <tr>
   <td align="center" width="23%">
     🏃 <strong>Club Sports Program Manager</strong><br/><br/>
-    <sub>UMass RecWell — scheduling, tournaments and logistics for 40+ student athletes across multiple club teams. A Gantt chart with cleats on.</sub>
+    <sub>UMass RecWell — scheduling, tournaments and logistics for 40+ club sports teams while adhering to compliance and safety.</sub>
   </td>
   <td align="center" width="23%">
     🏆 <strong>Quality Circle Gold Award</strong><br/><br/>
-    <sub>QCFI Bengaluru Convention 2015 — led team "PENCIPTA" to Gold. Process improvement before I knew what Lean Six Sigma was called.</sub>
+    <sub>QCFI Bengaluru Convention 2015 — led team "PENCIPTA" to Gold.</sub>
   </td>
   <td align="center" width="23%">
     🧠 <strong>High-Stakes Domains</strong><br/><br/>
