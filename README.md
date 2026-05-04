@@ -25,6 +25,24 @@
 
 <br/>
 
+<!-- ██████████████████████  WHO I AM  ██████████████████████ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%8C%20WHO%20I%20AM-1e3a8a?style=for-the-badge" height="36"/>
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics. Not a pivot — a zoom out.</sub>
+<br/><br/>
+<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, digital healthcare, and fintech in India — not job-hopping, but vocabulary-building. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
+<br/><br/>
+<sub>I'm drawn to domains where the stakes are real: mental health platforms, fair-housing advocacy, financial crime prevention. Numbers that move policy, not just PowerPoints.</sub>
+</div>
+
+<br/>
+
 <!-- ██████████████████████  IMPACT METRICS  ██████████████████████ -->
 
 <div align="center">
@@ -276,7 +294,7 @@
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2022–23-2563EB?style=flat-square" /></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> &nbsp;<strong>BI Developer</strong> &nbsp;·&nbsp; Sparcolife Healthcare</td>
-  <td><sub>SQL governance · 40% fewer data errors · healthcare reporting</sub></td>
+  <td><sub>Patient funnel analytics · 48-hr retention drop-off uncovered · mental health tech startup</sub></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2021–22-3b82f6?style=flat-square" /></td>
@@ -300,8 +318,10 @@
 | Certification | Issuer | Status |
 |---|---|---|
 | Lean Six Sigma Yellow Belt | NIQC International | Completed |
+| Associate Data Engineer in SQL | DataCamp | Completed |
 | Data Analyst in Python | DataCamp | Completed |
 | Data Analyst in Power BI | DataCamp | Completed |
+| AWS Certified Data Engineering | AWS | In Progress (Q2 2026) |
 | Google Project Management | Coursera | In Progress |
 | DeepLearning.AI Data Engineering | Coursera | In Progress |
 
@@ -414,7 +434,7 @@
 
 <td width="50%" valign="top">
 <a href="https://github.com/Balram97215/YouTube-Analytics">
-  <img src="https://img.shields.io/badge/▶%20YouTube%20Analytics-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="60" alt="YouTube Analytics"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/YouTube.jpg?raw=true" width="75%" alt="YouTube Analytics"/>
 </a>
 <h3><a href="https://github.com/Balram97215/YouTube-Analytics">📺 YouTube Video Popularity Predictor</a></h3>
 <img src="https://img.shields.io/badge/40.9K%20Videos%20Analysed-1e40af?style=flat-square"/>
@@ -430,6 +450,39 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
 </td>
 
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ██████████████████████  BEYOND THE DATA  ██████████████████████ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%8C%20BEYOND%20THE%20DATA-1e3a8a?style=for-the-badge" height="36"/>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="23%">
+    🏃 <strong>Club Sports Program Manager</strong><br/><br/>
+    <sub>UMass RecWell — scheduling, tournaments and logistics for 40+ student athletes across multiple club teams. A Gantt chart with cleats on.</sub>
+  </td>
+  <td align="center" width="23%">
+    🏆 <strong>Quality Circle Gold Award</strong><br/><br/>
+    <sub>QCFI Bengaluru Convention 2015 — led team "PENCIPTA" to Gold. Process improvement before I knew what Lean Six Sigma was called.</sub>
+  </td>
+  <td align="center" width="23%">
+    🧠 <strong>High-Stakes Domains</strong><br/><br/>
+    <sub>Mental health tech · fair-housing advocacy · financial crime prevention. I gravitate toward work where the data changes someone's life, not just someone's slide deck.</sub>
+  </td>
+  <td align="center" width="23%">
+    🌏 <strong>Bengaluru → Amherst</strong><br/><br/>
+    <sub>Factory floors to boardroom dashboards. Three industries, two continents, one through-line: figure out what's broken, measure it, fix it.</sub>
+  </td>
 </tr>
 </table>
 </div>
