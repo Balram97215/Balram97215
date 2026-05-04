@@ -1,18 +1,3 @@
-<table border="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" style="border-radius: 50%;" width="200px" alt="Balram Headshot">
-    </td>
-    <td width="70%">
-      <h1>Welcome, I'm Balram Bhanu Iyengar! 👋</h1>
-      <h4>🚀 Data Analytics/Engineer | Data Governance | Supply Chain Ops</h4>
-      <p>
-        <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-        <a href="mailto:iyengarbalram97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
-      </p>
-      <blockquote><strong>"I bridge the gap between Boardroom Strategy and Engine Room Code."</strong></blockquote>
-    </td>
-  </tr>
 <!-- ██████████████████████  HERO  ██████████████████████ -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=290&text=Balram%20Bhanu%20Iyengar&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=BI%20Developer%20%7C%20Analytics%20Engineer%20%7C%20M.S.%20Business%20Analytics%2C%20UMass%20Amherst&descSize=17&descAlignY=70" width="100%"/>
 
@@ -81,228 +66,16 @@
 
 <br/>
 
----
-
-### 🚀 Career Performance Dashboard (KPIs)
-
-<table border="0" width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Operational Impact</h3>
-      <div align="center">
-        <a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
-          <img src="https://img.shields.io/badge/Validation_Time_Cut-80%25-success?style=for-the-badge&logo=speedtest&logoColor=white"/>
-        </a>
-        <br/>
-        <sub><i>Reduced QA cycles via PostgreSQL Automation</i></sub>
-        <br/><br/>
-        <a href="https://github.com/Balram97215/IVS-OLHS-Integration">
-           <img src="https://img.shields.io/badge/Logistics_Cost_Savings-~18%25-success?style=for-the-badge&logo=cashapp&logoColor=white"/>
-        </a>
-        <br/>
-        <sub><i>Projected savings via Geospatial Network Optimization</i></sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Reporting_Latency_Cut-90%25-success?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-        <br/>
-        <sub><i>Through Python ETL consolidation of fragmented logs</i></sub>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ Technical Proficiency</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/SQL_(Postgres%2F_T--SQL)-Advanced-007ec6?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-        <br/>
-        <code>██████████ 90%</code>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Python_(Pandas%2F_ETL)-Advanced-007ec6?style=flat-square&logo=python&logoColor=white"/>
-        <br/>
-        <code>█████████░ 85%</code>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Cloud_(AWS%2F_Snowflake)-Intermediate-orange?style=flat-square&logo=amazon-aws&logoColor=white"/>
-        <br/>
-        <code>██████░░░░ 60%</code>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">🧠 Project Management & Strategy</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Methodology-Agile_%2F_Scrum-7209b7?style=flat-square&logo=jira&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Strategy-Root_Cause_Analysis-7209b7?style=flat-square&logo=google-search-console&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Leadership-Cross--Functional_Comms-7209b7?style=flat-square&logo=microsoft-teams&logoColor=white"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Governance-Master_Data_Mgmt_(MDM)-purple?style=flat-square&logo=shield&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Focus-Stakeholder_Mgmt-purple?style=flat-square&logo=google-meet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Optimization-Lean_Six_Sigma-purple?style=flat-square&logo=files&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-<!-- ██████████████████████  DATA PIPELINE  ██████████████████████ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%8C%20HOW%20I%20BUILD%20%E2%80%94%20THE%20DATA%20PIPELINE-1e3a8a?style=for-the-badge" height="36"/>
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr align="center">
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="56"/><br/>
-    <b>01 · SOURCE</b><br/>
-    <sub>Databases · APIs<br/>CSV · JSON · Parquet</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="56"/><br/>
-    <b>02 · COLLECT</b><br/>
-    <sub>Python · REST APIs<br/>Web scraping · ETL</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="56"/><br/>
-    <b>03 · TRANSFORM</b><br/>
-    <sub>DuckDB · SQL · Pandas<br/>PL/pgSQL · dbt</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="56"/><br/>
-    <b>04 · MODEL</b><br/>
-    <sub>scikit-learn · XGBoost<br/>ML · Statistical Analysis</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="56"/><br/>
-    <b>05 · DELIVER</b><br/>
-    <sub>Power BI · Superset<br/>Dashboards · Reports</sub>
-  </td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- ██████████████████████  FEATURED BUILDS  ██████████████████████ -->
-
----
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%8C%20FEATURED%20BUILDS-1e3a8a?style=for-the-badge" height="36"/>
-</div>
-
-## 👨‍💻 My Journey: The "Unconventional" Engineer
-<br/>
-
-As a **first generation** undergrad and masters graduate, the traditional playbooks wasn't an option for me. I learned early on that if you want a path, you often have to pave it yourself.
-<div align="center">
-<table>
-<tr>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">🏠 Florida Real Estate Pipeline</a></h3>
-<img src="https://img.shields.io/badge/10.8M%20Records-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/27%2B%20Dashboards-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/21.4%25%20Corporate%20Ownership%20Surfaced-22c55e?style=flat-square"/>
-<br/><br/>
-<sub>End-to-end pipeline exposing corporate ownership patterns across Florida for fair-housing advocacy. Built with DuckDB, orchestrated with Docker, visualized in Superset.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="22" title="DuckDB"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" width="64" title="Superset"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="22" title="Docker"/>
-</td>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">🚚 Supply Chain Network Optimizer</a></h3>
-<img src="https://img.shields.io/badge/%7E18%25%20Freight%20Cost%20Reduction-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/Live%20CoG%20Simulator-2563EB?style=flat-square"/>
-<br/><br/>
-<sub>Interactive centre-of-gravity simulator modelling dual-node warehouse strategy. Enables real-time what-if analysis on freight costs in Power BI.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="22" title="Power BI"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/SQL-Migration-Case-Study">🔄 SQL Migration Framework</a></h3>
-<img src="https://img.shields.io/badge/%E2%86%93%2080%25%20Validation%20Time-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/AMER%20%7C%20EMEA%20%7C%20APAC-2563EB?style=flat-square"/>
-<br/><br/>
-<sub>T-SQL → PostgreSQL migration for AML/KYC workloads at NICE Actimize. Framework adopted globally; cut validation cycle time by 80%.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="22" title="PostgreSQL"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="22" title="SQL"/>
-</td>
-
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Balram97215/Student-Drop-out-Analytics">🎓 Student Dropout Predictor</a></h3>
-<img src="https://img.shields.io/badge/AUC%200.96-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/F1%200.92-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/87%25%20At--Risk%20Flagged%20Early-22c55e?style=flat-square"/>
-<br/><br/>
-<sub>XGBoost classifier predicting university dropout risk. Tuition non-payment is the #1 signal; model enables early intervention at scale.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="22" title="NumPy"/>
-</td>
-
-</tr>
-<tr>
-
-<td colspan="2" valign="top" align="center">
-<h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
-<img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
-<br/><br/>
-<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
-</td>
-
-</tr>
-</table>
-</div>
-
-My journey began far away from Silicon Valley, deep in the trenches of **Operations**, where "data" wasn't a clean SQL table it was a stack of mess and urgent deadlines.
-<br/>
-
-**The "Why":**
-In those early days, I watched smart people make tough decisions without the right insights. I realized that **waste** wasn't happening because people were lazy; it was happening because their approach to data was misaligned with the industry's rapid growth.
 <!-- ██████████████████████  TECH ARSENAL  ██████████████████████ -->
 
-**The Pivot:**
-The chaotic startup environment was a blessing in disguise. With no boundaries to stop me, I learned to take initiative. I taught myself the skills needed to solve problems on the fly, collaborating with SMEs to execute solutions. This journey taught me a critical lesson:
 <div align="center">
 <img src="https://img.shields.io/badge/%E2%96%8C%20TECH%20ARSENAL-1e3a8a?style=for-the-badge" height="36"/>
 </div>
 
-> **"Technology without context is just an algorithm. But technology *with* context is a superpower."**
 <br/>
 
-**The Transition:**
-Eventually, I pursued my **M.S. in Business Analytics** at the Isenberg School of Management (UMass Amherst). At that point, my path was still blurry. I had the drive, but I lacked the granular clarity of where I fit. It was my internship at **NICE Actimize** in 2024 that finally clicked: I loved writing queries. I loved understanding the infrastructure. I loved using data to answer business questions.
 <div align="center">
 
-**Where I Am Now:**
-Today, I am cementing that transition. I am actively pursuing **Professional Data Engineering certifications** to combine my operational grit with enterprise grade technical standards.
 **Analytics & BI**
 
 <table><tr>
@@ -317,6 +90,15 @@ Today, I am cementing that transition. I am actively pursuing **Professional Dat
   </td>
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="44"/><br/><sub><b>SQL</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28"/><br/><sub><b>T-SQL</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/><br/><sub><b>DAX</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="28"/><br/><sub><b>Power Query</b></sub>
   </td>
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" width="44"/><br/><sub><b>Analytics</b></sub>
@@ -342,6 +124,24 @@ Today, I am cementing that transition. I am actively pursuing **Professional Dat
   </td>
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="44"/><br/><sub><b>Jupyter</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="44"/><br/><sub><b>Matplotlib</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/XGBoost-189B48?style=flat-square&logo=xgboost&logoColor=white" height="28"/><br/><sub><b>XGBoost</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="28"/><br/><sub><b>SciPy</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Seaborn</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/PyArrow-E25A1C?style=flat-square&logoColor=white" height="28"/><br/><sub><b>PyArrow</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Shapely-3DAD63?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Shapely</b></sub>
   </td>
 </tr></table>
 
@@ -371,48 +171,66 @@ Today, I am cementing that transition. I am actively pursuing **Professional Dat
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="44"/><br/><sub><b>Snowflake</b></sub>
   </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" height="28"/><br/><sub><b>dbt</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="44"/><br/><sub><b>BigQuery</b></sub>
+  </td>
 </tr></table>
 
-My goal is to formalize my experience into a career as a **Data Engineer** building the infrastructure that allows SMEs to stop guessing and start leading.
-</div>
-
-**My Mission:**
-To orchestrate data not just to improve profits today, but to build a more **efficient, sustainable foundation for the next generation.**
 <br/>
 
----
+**Process & Quality**
+
+<table><tr>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-FFD700?style=flat-square&logoColor=black" height="28"/><br/><sub><b>Lean Six Sigma</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/DMAIC-1e40af?style=flat-square&logoColor=white" height="28"/><br/><sub><b>DMAIC</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Process%20Mapping-22c55e?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Process Mapping</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Agile-2563EB?style=flat-square&logo=agile&logoColor=white" height="28"/><br/><sub><b>Agile</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Stakeholder%20Mgmt-6366f1?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Stakeholder Mgmt</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Data%20Governance-0f172a?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Data Governance</b></sub>
+  </td>
+</tr></table>
+
+</div>
+
+<br/>
+
 <!-- ██████████████████████  CAREER THREAD  ██████████████████████ -->
 
-## 🛠️ Technical Toolkit
 <div align="center">
 <img src="https://img.shields.io/badge/%E2%96%8C%20CAREER%20THREAD-1e3a8a?style=for-the-badge" height="36"/>
 </div>
 
-| **Data Engineering & Cloud** | **Languages & Analytics** | **Governance & Business** |
-| :--- | :--- | :--- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **Amazon Web Services** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** (Pandas, NumPy) | 🛡️ **Master Data Mgmt (MDM)** |
-| 🌪️ **Apache Airflow** (Orchestration) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) **SQL** (PostgreSQL, T-SQL) | 📝 **Requirements Analysis** |
-| ⚡ **Apache Spark** (Big Data) | 🤖 **Feature Engineering** | 📋 **SOP Development** |
-| ❄️ **Snowflake** & **Vector DBs** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** (DAX) | 🔍 **Root Cause Analysis** |
-| 🐘 **Apache Hadoop** & **Data Lakes** | 📊 **Matplotlib / Seaborn** | 🏗️ **Data Modeling** |
 <br/>
 
----
 <div align="center">
 <table>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2025–Now-1e40af?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="18"/> &nbsp;<strong>BI Developer (Pro Bono)</strong> &nbsp;·&nbsp; Community Dreams Foundation</td>
+  <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="18"/> &nbsp;<strong>Pro Bono BI Developer</strong> &nbsp;·&nbsp; Community Dreams Foundation</td>
   <td><sub>Florida RE pipeline · 10.8M records · 27+ dashboards</sub></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2024-1d4ed8?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="18"/> &nbsp;<strong>Analytics Intern</strong> &nbsp;·&nbsp; NICE Actimize (AML/KYC)</td>
+  <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="18"/> &nbsp;<strong>Business Analytics Intern</strong> &nbsp;·&nbsp; NICE Actimize (AML/KYC)</td>
   <td><sub>T-SQL → PostgreSQL migration · 80% faster validation · AMER/EMEA/APAC</sub></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2022–23-2563EB?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> &nbsp;<strong>BI Developer (Contract)</strong> &nbsp;·&nbsp; Sparcolife Healthcare</td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> &nbsp;<strong>BI Developer</strong> &nbsp;·&nbsp; Sparcolife Healthcare</td>
   <td><sub>SQL governance · 40% fewer data errors · healthcare reporting</sub></td>
 </tr>
 <tr>
@@ -422,26 +240,18 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2020–21-60a5fa?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="18"/> &nbsp;<strong>Supply Chain Analyst</strong> &nbsp;·&nbsp; Transview Enterprise (TVI)</td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="18"/> &nbsp;<strong>Supply Chain Data Analyst</strong> &nbsp;·&nbsp; Transview Enterprise (TVI)</td>
   <td><sub>Lean Six Sigma · 30% travel reduction · operations analytics</sub></td>
 </tr>
 </table>
 </div>
 
-## 🧪 Technical Projects & Research
 <br/>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)** | **Digital Twin Simulation:** Optimizing warehouse locations using Center of Gravity physics to reduce freight costs by ~18%. | `Python`, `Power BI`, `CoG Physics` |
-| **[YouTube Analytics](https://github.com/Balram97215/YouTube-Analytics)** | **Viral Prediction Model:** Classifying video popularity based on engagement metrics with 68%+ accuracy. | `Python`, `Logistic Regression` |
-| **[Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)** | **Retention Strategy:** Identifying at-risk students using statistical independence tests. | `Pandas`, `Chi-Square` |
-| **[Employee Attrition](https://github.com/Balram97215/Employee-Attrition)** | **HR Analytics:** Analyzing attrition risk factors to drive workforce retention strategies. | `Scikit-learn`, `EDA` |
 <details>
 <summary><strong>Certifications</strong></summary>
 <br/>
 
----
 | Certification | Issuer | Status |
 |---|---|---|
 | Lean Six Sigma Yellow Belt | NIQC International | Completed |
@@ -450,80 +260,144 @@ To orchestrate data not just to improve profits today, but to build a more **eff
 | Google Project Management | Coursera | In Progress |
 | DeepMind.AI Data Engineering | Coursera | In Progress |
 
-## 💼 Professional Experience
 </details>
 
-### 🔹 **Pro Bono Business Intelligence Developer**
-**Community Dreams Foundation | Real Estate Analytics** | *Aug 2025 - Present*
-* **The Challenge:** Disparate datasets across Finance, Real Estate, and Energy sectors preventing cross-functional trend analysis
-* **The Fix:** Architecting a **Unified Multi-Domain Data Warehouse Pipeline** using Python and SQL to ingest and normalize data
 <br/>
 
-### 🔹 **Business Analytics (Intern)**
-**[NICE Actimize | Automated Data Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)** | *May 2024 - Jul 2024*
-* **The Challenge:** Low income buyers were getting priced out by sudden, unfair price spikes they couldn't see coming
-* **The Fix:** Build a Machine Learning tool that scans real-time housing data to flag suspicious price changes, giving community leaders an early warning system to protect buyers
-* **The Result:** Reduced validation cycle time by **80%** and resolved critical syntax incompatibilities during cloud migration
+<!-- ██████████████████████  FEATURED BUILDS  ██████████████████████ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%96%8C%20FEATURED%20BUILDS-1e3a8a?style=for-the-badge" height="36"/>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/real_estate.jpg?raw=true" width="75%" alt="Florida Real Estate Pipeline"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">🏠 Florida Real Estate Pipeline</a></h3>
+<img src="https://img.shields.io/badge/10.8M%20Records-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/27%2B%20Dashboards-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/21.4%25%20Corporate%20Ownership%20Surfaced-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>End-to-end pipeline exposing corporate ownership patterns across Florida for fair-housing advocacy. Built with DuckDB, orchestrated with Docker, visualized in Superset.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="22" title="DuckDB"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="22" title="Docker"/>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Supply%20Chain.jpg?raw=true" width="75%" alt="Supply Chain Network Optimizer"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">🚚 Supply Chain Network Optimizer</a></h3>
+<img src="https://img.shields.io/badge/%7E18%25%20Freight%20Cost%20Reduction-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live%20CoG%20Simulator-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>Interactive centre-of-gravity simulator modelling dual-node warehouse strategy. Enables real-time what-if analysis on freight costs in Power BI.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="22" title="Power BI"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/NICE%20Actimize.webp?raw=true" width="75%" alt="SQL Migration Case Study"/>
+</a>
+<h3><a href="https://github.com/Balram97215/SQL-Migration-Case-Study">🔄 SQL Migration Framework</a></h3>
+<img src="https://img.shields.io/badge/%E2%86%93%2080%25%20Validation%20Time-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/AMER%20%7C%20EMEA%20%7C%20APAC-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>T-SQL → PostgreSQL migration for AML/KYC workloads at NICE Actimize. Framework adopted globally; cut validation cycle time by 80%.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="22" title="PostgreSQL"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="22" title="SQL"/>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/Student-Drop-out-Analytics">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Student%20Dropout.png?raw=true" width="75%" alt="Student Dropout Predictor"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Student-Drop-out-Analytics">🎓 Student Dropout Predictor</a></h3>
+<img src="https://img.shields.io/badge/AUC%200.96-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/F1%200.92-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/87%25%20At--Risk%20Flagged%20Early-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>XGBoost classifier predicting university dropout risk. Tuition non-payment is the #1 signal; model enables early intervention at scale.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="22" title="NumPy"/>
+</td>
+
+</tr>
+<tr>
+
+<td colspan="2" valign="top" align="center">
+<a href="https://github.com/Balram97215/Employee-Attrition">
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Employee%20Attrition.png?raw=true" width="40%" alt="Employee Attrition Model"/>
+</a>
+<h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
+<img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
+<br/><br/>
+<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
 <!-- ██████████████████████  GITHUB SIGNAL  ██████████████████████ -->
 
-### 🔹 **Business Intelligence Developer (Contract)**
-**Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration** | *Sep 2022 - Aug 2023*
-* **The Challenge:** Integrating the 'Vyli' AI diagnostic platform with legacy clinical systems without compromising PHI
-* **The Fix:** Translated clinical logic into **SQL-based technical specifications** and implemented a **data governance framework**
-* **The Result:** Reduced data validation errors by **40%** and accelerated the compliance audit cycle by 2 weeks
 <div align="center">
 <img src="https://img.shields.io/badge/%E2%96%8C%20GITHUB%20SIGNAL-1e3a8a?style=for-the-badge" height="36"/>
 </div>
 
-### 🔹 **Data Operations Analyst**
-**Indian Vellness Solutions (IVS) | Supply Chain Network Optimization** | *Nov 2021 - Sep 2022*
-* **The Challenge:** Determining optimal warehouse locations for the 'Oriental Lotus' expansion without validated cost logic
-* **The Fix:** Collaborated on a **Python-based Geospatial Network Optimizer** (Center of Gravity) and built a "Single Source of Truth" dashboard
-* **The Result:** Validated Cost of Goods Sold (COGS) logic and provided the first real time view of product sales
-  
-### 🔹 **Supply Chain Data Analyst**
-**Transview Enterprise (TVI) | Operations Analytics & Six Sigma** | *Oct 2020 - Oct 2021*
-* **The Challenge:** Critical 3-day delivery delays due to inefficient packing bottlenecks
-* **The Fix:** Spearheaded a **Lean Six Sigma** initiative utilizing **EDA** and **ABC Slotting strategies** for high velocity SKUs
-* **The Result:** Replaced intuition based decision making with **statistically validated A/B testing frameworks**, restoring SLAs
 <br/>
 
-### 🔹 **Technical Support Engineer**
-**Fidelis Corporate Solutions (DXC Technology) | System Reliability** | *Mar 2020 - Jun 2020*
-* **The Focus:** Enterprise technical support and incident diagnosis for DXC Technology clients
-* **The Fix:** Maintained strict Service Level Agreements (SLAs) through rapid issue triage and root cause identification
-* **The Result:** Ensured operational continuity during high volume incident periods
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balram97215&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram97215&layout=compact&hide_border=true" width="40%"/>
 </div>
 
-### 🔹 **Industrial Engineering Trainee**
-**TI Tsubamex Pvt. Ltd. | Precision Engineering** | *May 2016 - May 2017*
-* **The Focus:** High precision manufacturing and quality assurance for automotive tool & die components
-* **The Fix:** Executed rigorous quality control checks and adhered to ISO manufacturing standards
-* **The Result:** Completed intensive 12 month industrial training program with excellence in production operations
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Balram97215&hide_border=true" width="56%"/>
 </div>
 
 
----
 
-## 📜 Certifications
-* **Lean Six Sigma Yellow Belt** | *NIQC International* (Process Improvement)
-* **Google Project Management** | *Coursera* (In Progress)
-* **DeepMind.AI Data Engineering** | *Coursera* (In Progress)
-* **Data Analyst in PowerBI** | *datacamp*
-* **Data Analyst in Python** | *datacamp*
 <br/>
 
----
 <!-- ██████████████████████  FOOTER  ██████████████████████ -->
 
 <div align="center">
-  <i>"Data without context is just noise. Data with context is strategy."</i>
   <em><strong>"Data without context is noise. Data with context is strategy."</strong></em>
   <br/><br/>
   <a href="https://www.linkedin.com/in/balram-iyengar-97shree">
