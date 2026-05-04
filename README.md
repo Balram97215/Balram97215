@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Balram97215/Balram97215/blob/main/profile-pic.jpg?raw=true" width="150px" style="border-radius:50%;" alt="Balram Bhanu Iyengar – profile photo"/>
   <h1>Balram Bhanu Iyengar</h1>
-  <h3>Data Engineer · Analytics Engineer · Supply Chain Data Specialist</h3>
+  <h3>Data Engineer &nbsp;·&nbsp; Analytics Engineer &nbsp;·&nbsp; Supply Chain Data Specialist</h3>
   <p><em>"I bridge the gap between Boardroom Strategy and Engine Room Code."</em></p>
   <p>
     <a href="https://www.linkedin.com/in/balram-iyengar-97shree"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,15 +15,14 @@
 ## 🟢 Open to Opportunities
 
 > **Actively seeking** full-time roles as a **Data Engineer**, **Analytics Engineer**, or **Data Platform Engineer** — open to hybrid / remote in the US.  
-> M.S. Business Analytics · UMass Amherst · Isenberg School of Management  
-> Available immediately · Work-authorized in the US
+> M.S. Business Analytics · UMass Amherst (Isenberg School of Management) · Work-authorized · Available now
 
 ---
 
 ## 📑 Table of Contents
 
 1. [Impact at a Glance](#-impact-at-a-glance)
-2. [Featured Case Studies](#-featured-case-studies)
+2. [Featured Projects](#-featured-projects)
 3. [Technical Toolkit](#%EF%B8%8F-technical-toolkit)
 4. [Professional Experience](#-professional-experience)
 5. [My Story](#-my-story)
@@ -34,115 +33,126 @@
 
 ## ⚡ Impact at a Glance
 
-| Metric | Result | Context |
-|--------|--------|---------|
-| ⏱️ Validation time | **↓ 80 %** | PostgreSQL automation at NICE Actimize |
-| 🚚 Logistics cost | **↓ ~18 %** | Geospatial network optimizer (Center of Gravity model) |
-| 📊 Reporting latency | **↓ 90 %** | Python ETL consolidation of fragmented operational logs |
-| 🩺 Data validation errors | **↓ 40 %** | SQL governance framework for AI-diagnostic integration |
+| Metric | Result | Where |
+|--------|--------|-------|
+| ⏱️ Data validation cycle time | **↓ 80%** | NICE Actimize — T-SQL → PostgreSQL migration framework |
+| 📊 Reporting latency | **↓ 90%** | IVS — Python ETL replacing 3-day manual reporting cycle |
+| 🚚 Projected freight cost | **↓ ~15–20%** | Supply chain CoG simulation (synthetic-data model) |
+| 🗂️ Data pipeline scale | **10.8M records** | Florida Real Estate — all 68 counties, DuckDB warehouse |
 
 ---
 
-## 🗂️ Featured Case Studies
+## 🗂️ Featured Projects
 
-### 1 · [SQL Migration & Automated Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
-> **Stack:** PostgreSQL · T-SQL · Python · Pytest
+### 1 · [Florida Real Estate Data Pipeline](https://github.com/Balram97215/Florida_RealEstate_DataPipeline)
+> **Stack:** Python · fiona · DuckDB · SQL · Apache Superset · Docker · pyproj
+
+**Built for** [Community Dreams Foundation](https://communitydreamsfoundation.org) — a nonprofit focused on fair housing policy.
 
 | | |
 |---|---|
-| **Problem** | Cloud migration from SQL Server to PostgreSQL introduced silent syntax breaks; manual QA was taking days per release cycle. |
-| **Approach** | Designed an automated diff-testing harness that ran parameterised queries against both engines and flagged semantic mismatches. |
-| **Impact** | Cut validation cycle time by **80 %**, resolved critical syntax incompatibilities, and gave the team a reusable regression suite. |
+| **Problem** | Florida's Department of Revenue publishes parcel data as Esri `.gdb` files — a geospatial format that requires significant engineering work to process. No existing tooling at the organization; analysts worked from manually downloaded CSVs with no cross-county view. |
+| **Approach** | Designed a 4-phase ELT pipeline: extract from `.gdb` using `fiona` + `pyproj` (CRS reprojection EPSG:6439 → WGS84) → chunk to Parquet → load into DuckDB → transform via SQL (OBT, sales, reference tables) → validate with 12+ automated quality checks. Containerised Apache Superset (Docker Compose) for 27+ dashboard views. |
+| **Output** | Processed all **10.8 million** Florida parcel records across 68 counties. Key finding: **21.4% corporate ownership concentration** statewide — a headline metric for fair-housing policy analysis. Includes 8 EDA modules and an automated cross-validation layer. |
 
 ---
 
-### 2 · [Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)
-> **Stack:** Python · Pandas · Power BI · Center-of-Gravity physics
+### 2 · [SQL Migration & Validation Framework](https://github.com/Balram97215/SQL-Migration-Case-Study)
+> **Stack:** PostgreSQL · T-SQL · PL/pgSQL · pgAdmin
+
+**Built during** internship at NICE Actimize (Financial Crime Compliance — AML/Fraud Detection).
 
 | | |
 |---|---|
-| **Problem** | Expanding retail brand needed to place new warehouses to minimise freight cost — with no validated cost model to guide the decision. |
-| **Approach** | Built a Center-of-Gravity digital-twin simulation that weighted demand nodes by volume and distance, then visualised optimal zones in Power BI. |
-| **Impact** | Identified warehouse placement that projects **~18 % logistics cost savings**; gave leadership the first data-backed site selection framework. |
+| **Problem** | Migrating Actimize's AML/KYC solution library from SQL Server / Oracle to cloud PostgreSQL. The existing T-SQL scripts used proprietary functions (`CHARINDEX`, `GETDATE`, `GOTO` flow control, `MONEY` type) incompatible with PostgreSQL — causing silent validation failures in compliance-critical data pipelines. |
+| **Approach** | Systematically refactored the T-SQL library to PostgreSQL-native equivalents (`POSITION`, `NOW()`, structured `EXCEPTION` blocks, `NUMERIC`). Built a reusable validation taxonomy covering null checks, referential integrity, domain integrity, and uniqueness — applied across CDD, WLF, and SAM modules. |
+| **Impact** | Reduced validation cycle time by **~80%**, standardized the framework across AMER/EMEA/APAC regions, and presented findings directly to the C-suite. |
 
 ---
 
-### 3 · [Florida Real Estate Data Pipeline](https://github.com/Balram97215/Florida_RealEstate_DataPipeline)
-> **Stack:** Python · SQL · AWS (S3 / RDS) · Power BI
+### 3 · [Supply Chain Network Optimizer](https://github.com/Balram97215/Supply_Chain_Network_Optimizer)
+> **Stack:** Python · Pandas · Matplotlib · Power BI (embedded Python scripts)
+
+**Note:** This is a simulation tool built on synthetic data (10,000+ generated orders).
 
 | | |
 |---|---|
-| **Problem** | Real estate analysts were manually downloading CSVs; no single source of truth for cross-county price trend analysis. |
-| **Approach** | Architected an end-to-end ELT pipeline: scrape → S3 landing zone → PostgreSQL RDS → Power BI semantic layer with automated refresh. |
-| **Impact** | Eliminated manual data prep, enabled same-day county-level pricing insights, and established a reusable pipeline template for similar markets. |
+| **Problem** | Logistics teams typically rely on spreadsheet heuristics to decide where to open new distribution nodes — with no dynamic modelling of how demand shift changes the optimal location. |
+| **Approach** | Generated realistic order data using skewed probability distributions, then applied a **weighted Center-of-Gravity** algorithm to calculate the mathematically optimal warehouse placement. Embedded the Python calculation engine directly inside Power BI, making the map respond to user filters (region, season, volume threshold) in real time. |
+| **Output** | Simulation identified a dual-node network (NJ + NV) that reduces simulated Zone 8 freight cost by **~18%** and cuts West Coast delivery time by 4 days. Tool is reusable for any demand dataset. |
 
 ---
 
-### 4 · [Vyli AI-Diagnostic Integration — Data Governance](https://github.com/Balram97215/Balram97215)
-> **Stack:** SQL · PHI-compliance frameworks · Data Modeling
+### 4 · [Student Dropout Prediction](https://github.com/Balram97215/Student-Drop-out-Analytics)
+> **Stack:** Python · scikit-learn · XGBoost · Pandas
+
+**Academic project** — M.S. Business Analytics, UMass Amherst.
 
 | | |
 |---|---|
-| **Problem** | Integrating an AI diagnostic platform with legacy clinical systems risked exposing Protected Health Information (PHI) and failing compliance audits. |
-| **Approach** | Translated clinical business rules into SQL-based technical specifications; implemented a data governance framework with field-level lineage and access controls. |
-| **Impact** | Reduced data validation errors by **40 %** and accelerated the compliance audit cycle by **2 weeks**. |
+| **Problem** | Institutions spend resources on blanket retention programs without knowing which students are actually at risk — or why. |
+| **Approach** | Trained Random Forest, XGBoost, and an ensemble Voting Classifier on 4,424 student records with 35 demographic, academic, and socioeconomic features. Applied permutation importance to identify the top predictive signals. |
+| **Results** | Voting Classifier: **AUC 0.96 · F1 0.92 · Balanced Accuracy 0.93**. Top finding: tuition payment status alone predicts dropout in 87% of cases among students with unpaid fees — actionable for early financial-aid intervention. |
 
 ---
 
-### 5 · [YouTube Virality Prediction Model](https://github.com/Balram97215/YouTube-Analytics)
-> **Stack:** Python · Scikit-learn · Logistic Regression · Pandas
+### 5 · [Employee Attrition Predictor](https://github.com/Balram97215/Employee-Attrition)
+> **Stack:** Python · scikit-learn · Pandas · Logistic Regression
+
+**Academic project** — M.S. Business Analytics, UMass Amherst.
 
 | | |
 |---|---|
-| **Problem** | Content teams lacked an objective signal to predict which videos would go viral before committing production budget. |
-| **Approach** | Engineered engagement-rate features (like-ratio, comment velocity, subscriber-normalised views) and trained a logistic regression classifier. |
-| **Impact** | Achieved **68 %+ classification accuracy**; model surfaced top engagement drivers for content strategy decisions. |
+| **Problem** | Blanket retention incentives are costly. HR needs to know *which* employees are at risk and *why* — not just that attrition is high. |
+| **Approach** | End-to-end ML pipeline on 2,940 HR records (33 features): cleaning, one-hot encoding, z-score normalization, logistic regression with class weighting for the imbalanced 16% attrition rate. Emphasized interpretability over raw accuracy so HR could act on coefficients. |
+| **Key findings** | Overtime, poor environment satisfaction, long commute, and infrequent promotions were the strongest attrition signals — translated into concrete HR intervention priorities. |
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-| **Data Engineering & Cloud** | **Languages & Analytics** | **Governance & Ops** |
+| **Data Engineering** | **Languages & Analytics** | **Governance & Methods** |
 |---|---|---|
-| AWS (S3, RDS, Glue) | Python (Pandas, NumPy, PySpark) | Master Data Management (MDM) |
-| Apache Airflow · Spark · Hadoop | SQL (PostgreSQL, T-SQL, Snowflake) | Data Lineage & Cataloguing |
-| Snowflake · Data Lakes | Power BI (DAX) · Matplotlib | Lean Six Sigma · SOP Development |
-| Docker · dbt (learning) | Scikit-learn · Feature Engineering | Agile / Scrum · Stakeholder Mgmt |
+| DuckDB · SQL (PostgreSQL, T-SQL) | Python (Pandas, NumPy, fiona, pyproj) | Master Data Management (MDM) |
+| Apache Airflow (learning) · Spark | Scikit-learn · XGBoost · Matplotlib | Data Quality & Validation frameworks |
+| Docker · Superset · Parquet | Power BI (DAX) · DAX | Lean Six Sigma (Yellow Belt) |
+| AWS (S3, RDS — learning) · Snowflake | Feature Engineering · EDA | Agile / Scrum · Stakeholder Mgmt |
 
 ---
 
 ## 💼 Professional Experience
 
 ### Business Intelligence Developer — Pro Bono
-**Community Dreams Foundation | Real Estate Analytics** · *Aug 2025 – Present*
-- Architecting a **Unified Multi-Domain Data Warehouse** (Finance, Real Estate, Energy) using Python and SQL to enable cross-sector trend analysis where siloed datasets previously prevented any joined reporting.
+**[Community Dreams Foundation](https://communitydreamsfoundation.org) — Florida Real Estate Analytics** · *Aug 2025 – Present*
+- Building a production ELT pipeline processing **10.8 million** Florida property records (all 68 counties) from Esri GDB format into a DuckDB analytical warehouse.
+- Delivering 27+ Apache Superset dashboard views surfacing corporate ownership concentration and county-level valuation trends for fair-housing policy work.
 
 ### Business Analytics Intern
-**[NICE Actimize](https://github.com/Balram97215/SQL-Migration-Case-Study)** · *May 2024 – Jul 2024*
-- Built an automated data validation framework that cut QA cycle time **80 %** during a SQL Server → PostgreSQL cloud migration.
-- Resolved critical syntax incompatibilities and delivered a reusable regression test suite adopted by the engineering team.
+**[NICE Actimize](https://github.com/Balram97215/SQL-Migration-Case-Study) — Financial Crime Compliance** · *May 2024 – Jul 2024*
+- Migrated the AML/KYC data validation script library from T-SQL to PostgreSQL-native syntax for a cloud migration affecting AMER/EMEA/APAC clients.
+- Reduced validation cycle time **~80%**; presented findings and efficiency gains directly to C-suite.
 
 ### Business Intelligence Developer — Contract
-**Sparcolife Digital Healthcare | Vyli AI-Diagnostic Integration** · *Sep 2022 – Aug 2023*
-- Implemented a SQL-based data governance framework for HIPAA-compliant PHI handling across legacy and AI systems.
-- Reduced validation errors **40 %** and accelerated compliance audit cycle by **2 weeks**.
+**Sparcolife Digital Healthcare — Vyli AI-Diagnostic Integration** · *Sep 2022 – Aug 2023*
+- Translated clinical business rules into SQL technical specifications to integrate the Vyli AI diagnostic platform with legacy systems while maintaining HIPAA-compliant PHI controls.
+- Implemented a data governance framework that reduced validation errors by **~40%** and cut the compliance audit cycle by 2 weeks.
 
 ### Data Operations Analyst
-**Indian Vellness Solutions (IVS)** · *Nov 2021 – Sep 2022*
-- Co-built a Python Geospatial Network Optimizer (Center of Gravity) projecting **~18 % freight cost reduction** for warehouse placement.
-- Delivered the organisation's first real-time COGS dashboard — single source of truth for product sales.
+**[Indian Vellness Solutions (IVS)](https://github.com/Balram97215/IVS-OLHS-Integration) — Post-Acquisition Supply Chain** · *Nov 2021 – Sep 2022*
+- Built Python ETL pipelines to integrate the acquired *Oriental Lotus* division's fragmented Excel/CSV data into a central SQL instance, reducing reporting latency from 3 days to under 30 minutes (**90% reduction**).
+- Co-developed a Center-of-Gravity network optimizer projecting a **15–20% reduction** in West Coast shipping costs for the new distribution node decision.
 
 <details>
 <summary>Earlier roles (2017 – 2021)</summary>
 
-**Supply Chain Data Analyst · Transview Enterprise (TVI)** *(Oct 2020 – Oct 2021)*  
-Lean Six Sigma initiative using EDA + ABC slotting strategies to eliminate 3-day delivery delays; replaced intuition-based decisions with statistically validated A/B testing frameworks, restoring SLAs.
+**Supply Chain Data Analyst · [Transview Enterprise (TVI)](https://github.com/Balram97215/TVI-Product_Development-Supply_Chain_Analytics)** *(Oct 2020 – Oct 2021)*  
+Applied DMAIC / Lean Six Sigma to eliminate a 3-day packing backlog for QNET's global e-commerce operations. ABC slotting reduced picker travel ~30%; A/B testing framework replaced gut-feel product launches with statistically validated decisions.
 
 **Technical Support Engineer · Fidelis Corporate Solutions (DXC Technology)** *(Mar 2020 – Jun 2020)*  
-Enterprise incident triage and RCA, maintaining strict SLAs during high-volume periods.
+Enterprise incident triage and root cause analysis, maintaining SLAs for DXC Technology clients.
 
 **Industrial Engineering Trainee · TI Tsubamex Pvt. Ltd.** *(May 2016 – May 2017)*  
-Quality control and ISO standards adherence for precision automotive tooling components.
+Quality control and ISO standards adherence for precision automotive tooling.
 
 </details>
 
@@ -150,11 +160,11 @@ Quality control and ISO standards adherence for precision automotive tooling com
 
 ## 👨‍💻 My Story
 
-I'm a **first-generation** graduate (M.S. Business Analytics, UMass Amherst) who started in operations — where "data" meant a stack of spreadsheets and urgent deadlines, not clean SQL tables.
+I'm a first-generation M.S. graduate (Business Analytics, UMass Amherst) who spent the early part of my career in operations — where "data" meant urgent spreadsheets, not clean pipelines.
 
-Watching smart people make costly decisions without the right insights pushed me toward analytics. A chaotic startup environment forced me to self-teach, collaborate across functions, and ship solutions fast. My 2024 internship at **NICE Actimize** crystallised my direction: I love building the infrastructure that makes trustworthy data possible.
+Watching capable teams make costly decisions without reliable data made me realize the gap wasn't skill — it was infrastructure. I self-taught Python and SQL on the job, and each role pushed me further: from manual reporting to ETL automation, from gut-feel decisions to A/B testing, from spreadsheets to production data warehouses.
 
-Today I combine **operational domain knowledge** (supply chain, healthcare, real estate) with **engineering rigour** (pipelines, governance, automation) to turn messy data into reliable systems that let teams lead with confidence — not guesswork.
+My 2024 internship at NICE Actimize in financial crime compliance gave me the professional context I needed: real data quality stakes, enterprise-scale SQL, and direct exposure to how data engineering decisions affect compliance outcomes. Today I build pipelines that trade fragility for reliability, and dashboards that trade noise for clarity.
 
 ---
 
