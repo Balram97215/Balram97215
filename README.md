@@ -34,11 +34,11 @@
 <br/>
 
 <div align="center">
-<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics. Not a pivot — a zoom out.</sub>
+<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics.</sub>
 <br/><br/>
-<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, digital healthcare, and fintech in India — not job-hopping, but vocabulary-building. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
+<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, and digital healthcare in India building vocabulary. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
 <br/><br/>
-<sub>I'm drawn to domains where the stakes are real: mental health platforms, fair-housing advocacy, financial crime prevention. Numbers that move policy, not just PowerPoints.</sub>
+<sub>I'm drawn to domains where the stakes are real like mental health platforms, fair housing advocacy, financial crime prevention. Numbers that move policy, not just PowerPoints.</sub>
 </div>
 
 <br/>
@@ -423,7 +423,7 @@
 <img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
 <img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
 <br/><br/>
-<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
+<sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions.</sub>
 <br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
 &nbsp;
@@ -441,7 +441,7 @@
 <img src="https://img.shields.io/badge/4%20Models%20Compared-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Music%20%26%20Gaming%20Top%20Categories-22c55e?style=flat-square"/>
 <br/><br/>
-<sub>Multi-model analytics project identifying what drives YouTube video popularity. Combines regression, decision trees and neural networks across 40,950 US trending videos to deliver advertiser-ready insights on timing, categories and content attributes.</sub>
+<sub>Multi model analytics project identifying what drives YouTube video popularity. Combines regression, decision trees and neural networks across 40,950 US trending videos to deliver advertiser ready insights on timing, categories and content attributes.</sub>
 <br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
 &nbsp;
@@ -469,11 +469,11 @@
 <tr>
   <td align="center" width="23%">
     🏃 <strong>Club Sports Program Manager</strong><br/><br/>
-    <sub>UMass RecWell — scheduling, tournaments and logistics for 40+ student athletes across multiple club teams. A Gantt chart with cleats on.</sub>
+    <sub>UMass RecWell: Assisting in scheduling, cordination, and monitoring adherence of compliance and safety of 40+ club sports teams and RecWell gym.</sub>
   </td>
   <td align="center" width="23%">
     🏆 <strong>Quality Circle Gold Award</strong><br/><br/>
-    <sub>QCFI Bengaluru Convention 2015 — led team "PENCIPTA" to Gold. Process improvement before I knew what Lean Six Sigma was called.</sub>
+    <sub>QCFI Bengaluru Convention 2015: led team "PENCIPTA" to Gold. Process improvement before I knew what Lean Six Sigma was called.</sub>
   </td>
   <td align="center" width="23%">
     🧠 <strong>High-Stakes Domains</strong><br/><br/>
@@ -486,48 +486,30 @@
 </tr>
 <tr>
   <td align="center" width="23%">
-    🏭 <strong>TI Tsubamex Industrial Training</strong><br/><br/>
-    <sub>Completed a full year on the factory floor at TI Tsubamex (Murugappa Group), Chennai — precision tool manufacturing. Learned that quality is a system, not a checklist.</sub>
+    🏭 <strong>TI Tsubamex Industrial Internship</strong><br/><br/>
+    <sub>Completed a full year internship at TI Tsubamex (Murugappa Group), Chennai. Learned that quality is a system, not a checklist.</sub>
   </td>
   <td align="center" width="23%">
-    🇮🇳 <strong>Skill India — Tool & Die Maker</strong><br/><br/>
+    🇮🇳 <strong>Skill India: Tool & Die Maker</strong><br/><br/>
     <sub>Nationally certified Tool & Die Maker Level-5 under the NSDC / National Skills Qualification Framework. Practical engineering credentialed by the Government of India.</sub>
   </td>
   <td align="center" width="23%">
     🌱 <strong>National Conference on Green Energy</strong><br/><br/>
-    <sub>Volunteered at the 1st National Conference on Green Energy, Environment & Sustainable Development — Presidency University, Bengaluru, March 2018. Organised before "sustainability" was a buzzword.</sub>
+    <sub>Volunteered at the 1st National Conference on Green Energy, Environment & Sustainable Development at Presidency University, Bengaluru, March 2018. Organised before "sustainability" was a buzzword.</sub>
   </td>
   <td align="center" width="23%">
     🔩 <strong>Roots in Engineering</strong><br/><br/>
     <sub>B.Tech Mechanical Engineering (Presidency University). The rigour of stress analysis and thermodynamics taught me how to decompose complex systems — a muscle I use every time I model a data warehouse.</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="23%">
+    🌱 <strong>SAVE SOIL Movement</strong><br/><br/>
+    <sub>Volunteered to support the save soil movement initiated by Isha Foundation at Bangalore. It is a global initiative to retain and improve the soil quality to avoid global famine in the future.</sub>
+  </td>
+</tr>
 </table>
 </div>
-
-<br/>
-
-<!-- ██████████████████████  GITHUB SIGNAL  ██████████████████████ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%8C%20GITHUB%20SIGNAL-1e3a8a?style=for-the-badge" height="36"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balram97215&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram97215&layout=compact&hide_border=true" width="40%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balram97215&hide_border=true" width="56%"/>
-</div>
-
-
-
-<br/>
 
 <!-- ██████████████████████  FOOTER  ██████████████████████ -->
 
