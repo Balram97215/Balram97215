@@ -395,15 +395,33 @@
 </tr>
 <tr>
 
-<td colspan="2" valign="top" align="center">
+<td width="50%" valign="top">
 <a href="https://github.com/Balram97215/Employee-Attrition">
-  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Employee%20Attrition.png?raw=true" width="40%" alt="Employee Attrition Model"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Employee%20Attrition.png?raw=true" width="75%" alt="Employee Attrition Model"/>
 </a>
 <h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
 <img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
 <img src="https://img.shields.io/badge/Interpretable%20for%20HR%20Action-2563EB?style=flat-square"/>
 <br/><br/>
 <sub>Logistic regression model identifying the strongest drivers of employee attrition. Designed for HR teams to act on predictions — not just read them.</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="22" title="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="22" title="Pandas"/>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://github.com/Balram97215/YouTube-Analytics">
+  <img src="https://img.shields.io/badge/▶%20YouTube%20Analytics-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="60" alt="YouTube Analytics"/>
+</a>
+<h3><a href="https://github.com/Balram97215/YouTube-Analytics">📺 YouTube Video Popularity Predictor</a></h3>
+<img src="https://img.shields.io/badge/40.9K%20Videos%20Analysed-1e40af?style=flat-square"/>
+<img src="https://img.shields.io/badge/4%20Models%20Compared-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Music%20%26%20Gaming%20Top%20Categories-22c55e?style=flat-square"/>
+<br/><br/>
+<sub>Multi-model analytics project identifying what drives YouTube video popularity. Combines regression, decision trees and neural networks across 40,950 US trending videos to deliver advertiser-ready insights on timing, categories and content attributes.</sub>
 <br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="22" title="scikit-learn"/>
 &nbsp;
