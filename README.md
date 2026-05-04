@@ -34,9 +34,9 @@
 <br/>
 
 <div align="center">
-<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics.</sub>
+<sub>Mechanical engineer who fell in love with data. B.Tech in Mechanical Engineering → M.S. Business Analytics. Not a pivot — a zoom out.</sub>
 <br/><br/>
-<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, and digital healthcare in India building my vocabulary. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
+<sub>I spent three years <strong>deliberately</strong> rotating across supply chain, digital healthcare, and fintech in India — not job-hopping, but vocabulary-building. Every industry taught me a new dialect of the same language: <em>what does the data actually mean for the person making the decision?</em></sub>
 <br/><br/>
 <sub>I'm drawn to domains where the stakes are real: mental health platforms, fair-housing advocacy, financial crime prevention. Numbers that move policy, not just PowerPoints.</sub>
 </div>
@@ -469,11 +469,11 @@
 <tr>
   <td align="center" width="23%">
     🏃 <strong>Club Sports Program Manager</strong><br/><br/>
-    <sub>UMass RecWell — scheduling, tournaments and logistics for 40+ club sports teams while adhering to compliance and safety.</sub>
+    <sub>UMass RecWell — scheduling, tournaments and logistics for 40+ student athletes across multiple club teams. A Gantt chart with cleats on.</sub>
   </td>
   <td align="center" width="23%">
     🏆 <strong>Quality Circle Gold Award</strong><br/><br/>
-    <sub>QCFI Bengaluru Convention 2015 — led team "PENCIPTA" to Gold.</sub>
+    <sub>QCFI Bengaluru Convention 2015 — led team "PENCIPTA" to Gold. Process improvement before I knew what Lean Six Sigma was called.</sub>
   </td>
   <td align="center" width="23%">
     🧠 <strong>High-Stakes Domains</strong><br/><br/>
@@ -482,6 +482,24 @@
   <td align="center" width="23%">
     🌏 <strong>Bengaluru → Amherst</strong><br/><br/>
     <sub>Factory floors to boardroom dashboards. Three industries, two continents, one through-line: figure out what's broken, measure it, fix it.</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="23%">
+    🏭 <strong>TI Tsubamex Industrial Training</strong><br/><br/>
+    <sub>Completed a full year on the factory floor at TI Tsubamex (Murugappa Group), Chennai — precision tool manufacturing. Learned that quality is a system, not a checklist.</sub>
+  </td>
+  <td align="center" width="23%">
+    🇮🇳 <strong>Skill India — Tool & Die Maker</strong><br/><br/>
+    <sub>Nationally certified Tool & Die Maker Level-5 under the NSDC / National Skills Qualification Framework. Practical engineering credentialed by the Government of India.</sub>
+  </td>
+  <td align="center" width="23%">
+    🌱 <strong>National Conference on Green Energy</strong><br/><br/>
+    <sub>Volunteered at the 1st National Conference on Green Energy, Environment & Sustainable Development — Presidency University, Bengaluru, March 2018. Organised before "sustainability" was a buzzword.</sub>
+  </td>
+  <td align="center" width="23%">
+    🔩 <strong>Roots in Engineering</strong><br/><br/>
+    <sub>B.Tech Mechanical Engineering (Presidency University). The rigour of stress analysis and thermodynamics taught me how to decompose complex systems — a muscle I use every time I model a data warehouse.</sub>
   </td>
 </tr>
 </table>
