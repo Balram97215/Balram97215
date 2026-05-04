@@ -66,52 +66,6 @@
 
 <br/>
 
-<!-- ██████████████████████  DATA PIPELINE  ██████████████████████ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%8C%20HOW%20I%20BUILD%20%E2%80%94%20THE%20DATA%20PIPELINE-1e3a8a?style=for-the-badge" height="36"/>
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr align="center">
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="56"/><br/>
-    <b>01 · SOURCE</b><br/>
-    <sub>Databases · APIs<br/>CSV · JSON · Parquet</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="56"/><br/>
-    <b>02 · COLLECT</b><br/>
-    <sub>Python · REST APIs<br/>Web scraping · ETL</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="56"/><br/>
-    <b>03 · TRANSFORM</b><br/>
-    <sub>DuckDB · SQL · Pandas<br/>PL/pgSQL · dbt</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="56"/><br/>
-    <b>04 · MODEL</b><br/>
-    <sub>scikit-learn · XGBoost<br/>ML · Statistical Analysis</sub>
-  </td>
-  <td align="center" width="30"><h3>&#8594;</h3></td>
-  <td align="center" width="130">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="56"/><br/>
-    <b>05 · DELIVER</b><br/>
-    <sub>Power BI · Superset<br/>Dashboards · Reports</sub>
-  </td>
-</tr>
-</table>
-</div>
-
-<br/>
-
 <!-- ██████████████████████  TECH ARSENAL  ██████████████████████ -->
 
 <div align="center">
@@ -138,6 +92,15 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="44"/><br/><sub><b>SQL</b></sub>
   </td>
   <td align="center" width="90">
+    <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28"/><br/><sub><b>T-SQL</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/><br/><sub><b>DAX</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="28"/><br/><sub><b>Power Query</b></sub>
+  </td>
+  <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" width="44"/><br/><sub><b>Analytics</b></sub>
   </td>
 </tr></table>
@@ -161,6 +124,24 @@
   </td>
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="44"/><br/><sub><b>Jupyter</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="44"/><br/><sub><b>Matplotlib</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/XGBoost-189B48?style=flat-square&logo=xgboost&logoColor=white" height="28"/><br/><sub><b>XGBoost</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="28"/><br/><sub><b>SciPy</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Seaborn</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/PyArrow-E25A1C?style=flat-square&logoColor=white" height="28"/><br/><sub><b>PyArrow</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Shapely-3DAD63?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Shapely</b></sub>
   </td>
 </tr></table>
 
@@ -190,6 +171,37 @@
   <td align="center" width="90">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="44"/><br/><sub><b>Snowflake</b></sub>
   </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" height="28"/><br/><sub><b>dbt</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="44"/><br/><sub><b>BigQuery</b></sub>
+  </td>
+</tr></table>
+
+<br/>
+
+**Process & Quality**
+
+<table><tr>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-FFD700?style=flat-square&logoColor=black" height="28"/><br/><sub><b>Lean Six Sigma</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/DMAIC-1e40af?style=flat-square&logoColor=white" height="28"/><br/><sub><b>DMAIC</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Process%20Mapping-22c55e?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Process Mapping</b></sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/Agile-2563EB?style=flat-square&logo=agile&logoColor=white" height="28"/><br/><sub><b>Agile</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Stakeholder%20Mgmt-6366f1?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Stakeholder Mgmt</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://img.shields.io/badge/Data%20Governance-0f172a?style=flat-square&logoColor=white" height="28"/><br/><sub><b>Data Governance</b></sub>
+  </td>
 </tr></table>
 
 </div>
@@ -208,17 +220,17 @@
 <table>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2025–Now-1e40af?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="18"/> &nbsp;<strong>BI Developer (Pro Bono)</strong> &nbsp;·&nbsp; Community Dreams Foundation</td>
+  <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="18"/> &nbsp;<strong>Pro Bono BI Developer</strong> &nbsp;·&nbsp; Community Dreams Foundation</td>
   <td><sub>Florida RE pipeline · 10.8M records · 27+ dashboards</sub></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2024-1d4ed8?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="18"/> &nbsp;<strong>Analytics Intern</strong> &nbsp;·&nbsp; NICE Actimize (AML/KYC)</td>
+  <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="18"/> &nbsp;<strong>Business Analytics Intern</strong> &nbsp;·&nbsp; NICE Actimize (AML/KYC)</td>
   <td><sub>T-SQL → PostgreSQL migration · 80% faster validation · AMER/EMEA/APAC</sub></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2022–23-2563EB?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> &nbsp;<strong>BI Developer (Contract)</strong> &nbsp;·&nbsp; Sparcolife Healthcare</td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> &nbsp;<strong>BI Developer</strong> &nbsp;·&nbsp; Sparcolife Healthcare</td>
   <td><sub>SQL governance · 40% fewer data errors · healthcare reporting</sub></td>
 </tr>
 <tr>
@@ -228,7 +240,7 @@
 </tr>
 <tr>
   <td align="center"><img src="https://img.shields.io/badge/2020–21-60a5fa?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="18"/> &nbsp;<strong>Supply Chain Analyst</strong> &nbsp;·&nbsp; Transview Enterprise (TVI)</td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="18"/> &nbsp;<strong>Supply Chain Data Analyst</strong> &nbsp;·&nbsp; Transview Enterprise (TVI)</td>
   <td><sub>Lean Six Sigma · 30% travel reduction · operations analytics</sub></td>
 </tr>
 </table>
@@ -266,7 +278,7 @@
 
 <td width="50%" valign="top">
 <a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">
-  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/real_estate.png?raw=true" width="100%" alt="Florida Real Estate Pipeline"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/real_estate.jpg?raw=true" width="75%" alt="Florida Real Estate Pipeline"/>
 </a>
 <h3><a href="https://github.com/Balram97215/Florida_RealEstate_DataPipeline">🏠 Florida Real Estate Pipeline</a></h3>
 <img src="https://img.shields.io/badge/10.8M%20Records-1e40af?style=flat-square"/>
@@ -284,7 +296,7 @@
 
 <td width="50%" valign="top">
 <a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">
-  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Supply%20Chain.jpg?raw=true" width="100%" alt="Supply Chain Network Optimizer"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Supply%20Chain.jpg?raw=true" width="75%" alt="Supply Chain Network Optimizer"/>
 </a>
 <h3><a href="https://github.com/Balram97215/Supply_Chain_Network_Optimizer">🚚 Supply Chain Network Optimizer</a></h3>
 <img src="https://img.shields.io/badge/%7E18%25%20Freight%20Cost%20Reduction-1e40af?style=flat-square"/>
@@ -304,7 +316,7 @@
 
 <td width="50%" valign="top">
 <a href="https://github.com/Balram97215/SQL-Migration-Case-Study">
-  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/NICE%20Actimize.webp?raw=true" width="100%" alt="SQL Migration Case Study"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/NICE%20Actimize.webp?raw=true" width="75%" alt="SQL Migration Case Study"/>
 </a>
 <h3><a href="https://github.com/Balram97215/SQL-Migration-Case-Study">🔄 SQL Migration Framework</a></h3>
 <img src="https://img.shields.io/badge/%E2%86%93%2080%25%20Validation%20Time-1e40af?style=flat-square"/>
@@ -319,7 +331,7 @@
 
 <td width="50%" valign="top">
 <a href="https://github.com/Balram97215/Student-Drop-out-Analytics">
-  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Student%20Dropout.png?raw=true" width="100%" alt="Student Dropout Predictor"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Student%20Dropout.png?raw=true" width="75%" alt="Student Dropout Predictor"/>
 </a>
 <h3><a href="https://github.com/Balram97215/Student-Drop-out-Analytics">🎓 Student Dropout Predictor</a></h3>
 <img src="https://img.shields.io/badge/AUC%200.96-1e40af?style=flat-square"/>
@@ -340,7 +352,7 @@
 
 <td colspan="2" valign="top" align="center">
 <a href="https://github.com/Balram97215/Employee-Attrition">
-  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Employee%20Attrition.png?raw=true" width="60%" alt="Employee Attrition Model"/>
+  <img src="https://github.com/Balram97215/Balram97215/blob/copilot/update-readme-for-recruiters/Employee%20Attrition.png?raw=true" width="40%" alt="Employee Attrition Model"/>
 </a>
 <h3><a href="https://github.com/Balram97215/Employee-Attrition">👥 Employee Attrition Model</a></h3>
 <img src="https://img.shields.io/badge/Overtime%20%2B%20Low%20Satisfaction%20%3D%20Top%20Signals-1e40af?style=flat-square"/>
