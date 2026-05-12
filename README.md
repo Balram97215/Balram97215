@@ -281,12 +281,6 @@
 
 <div align="center">
 <table>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/2025–Now-1e40af?style=flat-square" /></td>
-  <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckdb.svg" width="18"/> &nbsp;<strong>Pro Bono BI Developer</strong> &nbsp;·&nbsp; Community Dreams Foundation</td>
-  <td><sub>Florida RE pipeline · 10.8M records · 27+ dashboards</sub></td>
-</tr>
-<tr>
   <td align="center"><img src="https://img.shields.io/badge/2024-1d4ed8?style=flat-square" /></td>
   <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="18"/> &nbsp;<strong>Business Analytics Intern</strong> &nbsp;·&nbsp; NICE Actimize (AML/KYC)</td>
   <td><sub>T-SQL → PostgreSQL migration · 80% faster validation · AMER/EMEA/APAC</sub></td>
